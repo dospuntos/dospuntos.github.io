@@ -1,5 +1,4 @@
 import { useState, useRef } from "react";
-import ReactDOM from "react-dom";
 
 export default function Slider(props) {
   const [dragStart, setDragStart] = useState(0);
