@@ -180,3 +180,19 @@
   -webkit-transform: rotate(30deg);
           transform: rotate(30deg);
 }
+
+.slider-content {
+  position: absolute;
+  top: 50%;
+  left: 120px;
+  transform: translateY(-50%);
+  font-size: 150%;
+  line-height: .5;
+  text-shadow: 2px 2px 4px black;
+  color: #fff;
+}
+
+.slider-content h3 {
+  color: #0c7384;
+  font-size: 200%;
+}

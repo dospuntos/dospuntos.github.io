@@ -5,6 +5,7 @@ import Hero from "./header/Hero";
 import Services from "./content/Services";
 import Contact from "./content/Contact";
 import About from "./content/About";
+import Privacy from "./content/Privacy";
 
 function MainArea() {
   return (
@@ -19,6 +20,7 @@ function MainArea() {
           <Route path="/about" component={About} />
           <Route path="/services" component={Services} />
           <Route path="/contact" component={Contact} />
+          <Route path="/privacy" component={Privacy} />
           <Route component={Services} />
         </Switch>
       </div>
