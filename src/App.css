@@ -37,6 +37,14 @@ img {
   max-width: 100%;
 }
 
+a {
+  color: #19AAB1;
+}
+
+a:visited {
+  color: #0f6266;
+}
+
 .text-center {
   text-align: center;
 }

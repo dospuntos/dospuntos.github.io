@@ -1,31 +1,33 @@
-const PrivacyNo = () => {
+const PrivacyEs = () => {
   return (
     <>
-      <h1>Personvernerklæring</h1>
+      <h1>Declaración de Privacidad</h1>
       <p>
-        Denne personvernerklæringen inneholder informasjon om hvordan vi
-        håndterer dine personopplysninger. Vi oppfordrer deg til å lese nøye
-        gjennom personvernerklæringen.
+        Con esta declaración de privacidad queremos informar a todos los
+        visitantes de nuestra página web de forma transparente sobre el tipo, el
+        alcance y la finalidad de los datos personales recopilados, utilizados y
+        sometidos a tratamiento por nosotros, así como informarle sobre los
+        derechos que le asisten.
       </p>
       <ol>
         <li>
-          <a href="#s1" alt="Kontaktinfo">
-            Kontaktinfo
+          <a href="#s1" alt="Información de contacto">
+            Información de contacto
           </a>
         </li>
         <li>
-          <a href="#s2" alt=" Sentrale begreper">
-            Sentrale begreper
+          <a href="#s2" alt="Términos generales">
+            Términos generales
           </a>
         </li>
         <li>
-          <a href="#s3" alt="Behandlingsansvarlig">
-            Dos Puntos Design er behandlingsansvarlig
+          <a href="#s3" alt="Responsable de la protección de datos">
+            Dos Puntos Design es responsable de la protección de datos
           </a>
         </li>
         <li>
-          <a href="#s4" alt="Hva samles inn?">
-            Hva slags informasjon er det vi samler inn?
+          <a href="#s4" alt="¿Qué información recolectamos?">
+            ¿Qué información recolectamos?
           </a>
         </li>
         <li>
@@ -438,4 +440,4 @@ const PrivacyNo = () => {
   );
 };
 
-export default PrivacyNo;
+export default PrivacyEs;

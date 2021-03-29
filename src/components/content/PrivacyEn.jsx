@@ -1,21 +1,21 @@
-const PrivacyNo = () => {
+const PrivacyEn = () => {
   return (
     <>
-      <h1>Personvernerklæring</h1>
+      <h1>Privacy Policy</h1>
       <p>
-        Denne personvernerklæringen inneholder informasjon om hvordan vi
-        håndterer dine personopplysninger. Vi oppfordrer deg til å lese nøye
-        gjennom personvernerklæringen.
+        This privacy policy contains information about how we handle your
+        personal information. We encourage you to read the privacy policy
+        carefully.
       </p>
       <ol>
         <li>
-          <a href="#s1" alt="Kontaktinfo">
-            Kontaktinfo
+          <a href="#s1" alt="Sentrale begreper">
+            Sentrale begreper
           </a>
         </li>
         <li>
-          <a href="#s2" alt=" Sentrale begreper">
-            Sentrale begreper
+          <a href="#s2" alt="Kontaktinfo">
+            Kontaktinfo
           </a>
         </li>
         <li>
@@ -438,4 +438,4 @@ const PrivacyNo = () => {
   );
 };
 
-export default PrivacyNo;
+export default PrivacyEn;
