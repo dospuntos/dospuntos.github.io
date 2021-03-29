@@ -6,7 +6,7 @@
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "graphic design",
-    "tags": ["newspaper", "advertising"]
+    "tags": ["graphic design"]
   },
   {
     "title": "Kristensamfunnet",
@@ -15,7 +15,7 @@
     "thumbnail": "kristensamfunnet.sml.jpg",
     "image": "kristensamfunnet.sml.jpg",
     "category": "websites",
-    "tags": ["responsive"]
+    "tags": ["website"]
   },
   {
     "title": "HotWok",
@@ -24,7 +24,7 @@
     "thumbnail": "hotwok.no.sml.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "websites",
-    "tags": ["responsive", "restaurant", "business"]
+    "tags": ["website", "logo", "graphic design"]
   },
   {
     "title": "Elias mat & sånt",
@@ -33,7 +33,7 @@
     "thumbnail": "cafeelias.no.med.jpg",
     "image": "cafeelias.no.med.jpg",
     "category": "websites",
-    "tags": ["responsive", "restaurant", "business"]
+    "tags": ["website"]
   },
   {
     "title": "Verksøya 2019",
@@ -42,7 +42,7 @@
     "thumbnail": "verksoya.sml.jpg",
     "image": "verksoya.jpg",
     "category": "graphic design",
-    "tags": ["logo", "business"]
+    "tags": ["logo", "graphic design"]
   },
   {
     "title": "Nordic IT Project",
@@ -51,7 +51,7 @@
     "thumbnail": "nordicitproject.com.sml.jpg",
     "image": "nordicitproject.com.png",
     "category": "websites",
-    "tags": ["responsive", "business"]
+    "tags": ["logo", "graphic design", "website"]
   },
   {
     "title": "Askeladden Steinerbarnehage",
@@ -60,7 +60,7 @@
     "thumbnail": "askeladdensteinerbarnehage.no.sml.jpg",
     "image": "askeladdensteinerbarnehage.no.png",
     "category": "websites",
-    "tags": ["responsive", "education"]
+    "tags": ["website"]
   },
   {
     "title": "Askerbøringen",
@@ -69,7 +69,7 @@
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "graphic design",
-    "tags": ["newspaper", "advertising"]
+    "tags": ["graphic design"]
   },
 
   {
@@ -79,7 +79,7 @@
     "thumbnail": "bergogblaane.jpg",
     "image": "bergogblaane.jpg",
     "category": "graphic design",
-    "tags": ["logo", "business"]
+    "tags": ["logo", "website", "graphic design"]
   },
 
   {
@@ -89,7 +89,7 @@
     "thumbnail": "modaz.net.jpg",
     "image": "modaz.net.jpg",
     "category": "websites",
-    "tags": ["responsive", "e-commerce"]
+    "tags": ["website", "logo", "graphic design"]
   },
   {
     "title": "Westand AS",
@@ -98,6 +98,6 @@
     "thumbnail": "westand.sml.jpg",
     "image": "westand.sml.jpg",
     "category": "websites",
-    "tags": ["responsive", "business"]
+    "tags": ["website", "logo"]
   }
 ]

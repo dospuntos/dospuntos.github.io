@@ -6,7 +6,7 @@
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "grafisk design",
-    "tags": ["avis", "reklame"]
+    "tags": ["reklame", "grafisk design"]
   },
   {
     "title": "Kristensamfunnet",
@@ -15,7 +15,7 @@
     "thumbnail": "kristensamfunnet.sml.jpg",
     "image": "kristensamfunnet.sml.jpg",
     "category": "hjemmeside",
-    "tags": ["responsiv"]
+    "tags": ["hjemmeside"]
   },
   {
     "title": "HotWok",
@@ -24,7 +24,7 @@
     "thumbnail": "hotwok.no.sml.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "hjemmeside",
-    "tags": ["responsiv", "restaurant", "bedrift"]
+    "tags": ["hjemmeside", "logo"]
   },
   {
     "title": "Elias mat & sånt",
@@ -33,7 +33,7 @@
     "thumbnail": "cafeelias.no.sml.jpg",
     "image": "cafeelias.no.med.jpg",
     "category": "hjemmeside",
-    "tags": ["responsiv", "restaurant", "bedrift"]
+    "tags": ["hjemmeside"]
   },
   {
     "title": "Verksøya 2019",
@@ -42,7 +42,7 @@
     "thumbnail": "verksoya.sml.jpg",
     "image": "verksoya.jpg",
     "category": "grafisk design",
-    "tags": ["logo", "bedrift"]
+    "tags": ["logo", "grafisk design"]
   },
   {
     "title": "Askeladden Steinerbarnehage",
@@ -51,7 +51,7 @@
     "thumbnail": "askeladdensteinerbarnehage.no.sml.jpg",
     "image": "askeladdensteinerbarnehage.no.png",
     "category": "hjemmeside",
-    "tags": ["responsiv", "utdanning"]
+    "tags": ["hjemmeside"]
   },
   {
     "title": "Askerbøringen",
@@ -60,6 +60,6 @@
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "grafisk design",
-    "tags": ["avis", "reklame"]
+    "tags": ["grafisk design"]
   }
 ]
