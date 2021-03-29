@@ -4,13 +4,13 @@
 
 body {
   background: #2e2f2a;
-  font-family: "Cardo", serif;
+  font-family: "Quicksand", sans-serif;
   font-size: 18px;
   overflow-x: hidden;
 }
 
 .pure-g [class*="pure-u"] {
-  font-family: "Cardo", serif;
+  font-family: "Quicksand", sans-serif;
 }
 
 h1,

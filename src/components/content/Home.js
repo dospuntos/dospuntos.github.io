@@ -8,7 +8,8 @@ export default function Home({ lang }) {
   return (
     <div className="home">
       <div className="highlight-section">
-        <p>{t("intro")}</p>
+        <p>{t("INTRO_PRIMARY")}</p>
+        <p>{t("INTRO_SECONDARY")}</p>
         <Link to="/contact" className="pure-button">
           {t("contactBtn")}
         </Link>

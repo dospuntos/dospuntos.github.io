@@ -1,9 +1,11 @@
 import { useState } from "react";
 import AccordionItem from "./AccordionItem";
+import { useTranslation } from "react-i18next";
 import "./scss/main.scss";
 
 const Accordion = ({ questionsAnswers }) => {
   const [activeIndex, setActiveIndex] = useState(0);
+  const { t } = useTranslation();
 
   const renderedQuestionsAnswers = questionsAnswers.map((item, index) => {
     const showDescription = index === activeIndex ? "show-description" : "";
@@ -26,7 +28,7 @@ const Accordion = ({ questionsAnswers }) => {
 
   return (
     <div className="faq">
-      <h1 className="faq__title">FAQ</h1>
+      <h1 className="faq__title">{t("FAQ_HEADING")}</h1>
       <dl className="faq__list">{renderedQuestionsAnswers}</dl>
     </div>
   );
