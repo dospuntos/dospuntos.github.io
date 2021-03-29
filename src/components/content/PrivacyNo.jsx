@@ -9,65 +9,91 @@ const PrivacyNo = () => {
       </p>
       <ol>
         <li>
-          <a href="#s1">Sentrale begreper</a>
+          <a href="#s1" alt="Sentrale begreper">
+            Sentrale begreper
+          </a>
         </li>
         <li>
-          <a href="#s2">Kontaktinfo</a>
+          <a href="#s2" alt="Kontaktinfo">
+            Kontaktinfo
+          </a>
         </li>
         <li>
-          <a href="#s3">Dos Puntos Design er behandlingsansvarlig</a>
+          <a href="#s3" alt="Behandlingsansvarlig">
+            Dos Puntos Design er behandlingsansvarlig
+          </a>
         </li>
         <li>
-          <a href="#s4">Hva slags informasjon er det vi samler inn?</a>
+          <a href="#s4" alt="Hva samles inn?">
+            Hva slags informasjon er det vi samler inn?
+          </a>
         </li>
         <li>
-          <a href="#s5">
+          <a href="#s5" alt="Samtykke">
             Samtykke etter paragraf 6f og mulighet til å trekke samtykke
           </a>
         </li>
         <li>
-          <a href="#s6">Informasjon fra andre kilder</a>
+          <a href="#s6" alt="Informasjon fra andre kilder">
+            Informasjon fra andre kilder
+          </a>
         </li>
         <li>
-          <a href="#s7">Formålet med behandlingen av personopplysningene?</a>
+          <a href="#s7" alt="Formål">
+            Formålet med behandlingen av personopplysningene?
+          </a>
         </li>
         <li>
-          <a href="#s8">
+          <a href="#s8" alt="Samtykke til e-postkorrespondanse">
             Samtykke til e-postkorrespondanse, direkte markedsføring og videre
             kontakt
           </a>
         </li>
         <li>
-          <a href="#s9">Hvor lenge lagres opplysningene?</a>
+          <a href="#s9" alt="Lagringstid">
+            Hvor lenge lagres opplysningene?
+          </a>
         </li>
         <li>
-          <a href="#s10">Hvem kan informasjonen deles med?</a>
+          <a href="#s10" alt="Hvem kan informasjonen deles med?">
+            Hvem kan informasjonen deles med?
+          </a>
         </li>
         <li>
-          <a href="#s11">Informasjonsdeling med tredjepart</a>
+          <a href="#s11" alt="Tredjepart">
+            Informasjonsdeling med tredjepart
+          </a>
         </li>
         <li>
-          <a href="#s12">Hvor oppbevares opplysningene?</a>
+          <a href="#s12" alt="Hvor oppbevares opplysningene?">
+            Hvor oppbevares opplysningene?
+          </a>
         </li>
         <li>
-          <a href="#s13">
-            Dine rettigheter iforhold til innsyn , sletting og eventuelt
+          <a href="#s13" alt="Dine rettigheter">
+            Dine rettigheter i forhold til innsyn , sletting og eventuelt
             flytting
           </a>
         </li>
         <li>
-          <a href="#s14">Andre formål</a>
+          <a href="#s14" alt="Andre formål">
+            Andre formål
+          </a>
         </li>
         <li>
-          <a href="#s15">Informasjonskapsler</a>
+          <a href="#s15" alt="Informasjonskapsler">
+            Informasjonskapsler
+          </a>
         </li>
         <li>
-          <a href="#s16">Epost og telefon</a>
+          <a href="#s16" alt="Epost og telefon">
+            Epost og telefon
+          </a>
         </li>
       </ol>
       <h3>
         <strong>
-          <a id="s1"></a>1. Kontaktinformasjon til Dos Puntos Design
+          <span id="s1">1. Kontaktinformasjon til Dos Puntos Design</span>
         </strong>
       </h3>
       <p>
@@ -83,17 +109,17 @@ const PrivacyNo = () => {
         <br />
         3475 Sætre, Norge
         <br />
-        Organisasjonsnummer:<span></span>
+        Organisasjonsnummer:
         <span>998051002MVA</span>
         <br />
-        E-post adresse:<span></span>
+        E-post adresse:
         <a href="mailto:info@dospuntos.no">info@dospuntos.no</a>
         <br />
         Mobil 45138399
       </p>
       <h3>
         <strong>
-          <a id="s2"></a>2. Sentrale begreper
+          <span id="s2">2. Sentrale begreper</span>
         </strong>
       </h3>
       <p>
@@ -114,7 +140,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s3"></a>3. Dos Puntos Design er behandlingsansvarlig
+          <span id="s3">3. Dos Puntos Design er behandlingsansvarlig</span>
         </strong>
       </h3>
       <p>
@@ -123,7 +149,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s4"></a>4. Hva slags informasjon er det vi samler inn?
+          <span id="s4">4. Hva slags informasjon er det vi samler inn?</span>
         </strong>
       </h3>
       <p>
@@ -155,12 +181,13 @@ const PrivacyNo = () => {
       </ul>
       <h3>
         <strong>
-          <a id="s5"></a>5. Paragraf 6 f som alternativ til valgt samtykke via
-          nettisde. Samtykke kan trekkes.
+          <span id="s5">
+            5. Paragraf 6 f som alternativ til valgt samtykke via nettisde.
+            Samtykke kan trekkes.
+          </span>
         </strong>
       </h3>
       <div>
-        <strong></strong>
         <span>
           Vi tar utgangspunkt i legitimt samtykke utifra Paragraf 6f i
           personvernloven. Hvis du har inngått et kundeforhold med oss
@@ -174,12 +201,9 @@ const PrivacyNo = () => {
         kan påvirke leveransen av informasjon innenfor rammen for
         kunderelasjonen, samt påvirke pågående dialoger
       </div>
-      <div>
-        <strong></strong>
-      </div>
       <h3>
         <strong>
-          <a id="s6"></a>6. Informasjon fra andre kilder
+          <span id="s6">6. Informasjon fra andre kilder</span>
         </strong>
         <strong></strong>
       </h3>
@@ -198,7 +222,9 @@ const PrivacyNo = () => {
       </div>
       <h3>
         <strong>
-          <a id="s7"></a>7. Formålet med behandlingen av personopplysningene?
+          <span id="s7">
+            7. Formålet med behandlingen av personopplysningene?
+          </span>
         </strong>
       </h3>
       <p>Informasjonen som du gir fra deg brukes til følgende formål:</p>
@@ -229,7 +255,7 @@ const PrivacyNo = () => {
       </ul>
       <h3>
         <strong>
-          <a id="s8"></a>8. Samtykke til e-postkorrespondanse, direkte
+          <span id="s8"></span>8. Samtykke til e-postkorrespondanse, direkte
           markedsføring og videre kontakt
         </strong>
       </h3>
@@ -249,7 +275,7 @@ const PrivacyNo = () => {
       </ul>
       <h3>
         <strong>
-          <a id="s9"></a>9. Hvor lenge lagres opplysningene?
+          <span id="s9"></span>9. Hvor lenge lagres opplysningene?
         </strong>
       </h3>
       <p>
@@ -283,7 +309,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s10"></a>10. Hvem kan informasjonen deles med?
+          <span id="s10"></span>10. Hvem kan informasjonen deles med?
         </strong>
       </h3>
       <p>
@@ -293,7 +319,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s11"></a>11. Informasjonsdeling med tredjepart
+          <span id="s11"></span>11. Informasjonsdeling med tredjepart
         </strong>
       </h3>
       <p>
@@ -315,7 +341,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s12"></a>12. Hvor oppbevares opplysningene?
+          <span id="s12"></span>12. Hvor oppbevares opplysningene?
         </strong>
       </h3>
       <p>
@@ -325,8 +351,8 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s13"></a>13. Dine rettigheter iforhold til innsyn , sletting og
-          eventuelt flytting
+          <span id="s13"></span>13. Dine rettigheter iforhold til innsyn ,
+          sletting og eventuelt flytting
         </strong>
       </h3>
       <p>
@@ -344,7 +370,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s14"></a>14. Andre formål
+          <span id="s14"></span>14. Andre formål
         </strong>
       </h3>
       <p>
@@ -355,7 +381,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s15"></a>15. Informasjonskapsler
+          <span id="s15"></span>15. Informasjonskapsler
         </strong>
       </h3>
       <p>
@@ -366,9 +392,9 @@ const PrivacyNo = () => {
         Lagring av opplysninger og behandling av disse opplysningene er ikke
         tillatt med mindre bruker både har blitt informert om og har gitt sitt
         <span className="hilite">samtykke</span>
-        <span></span>til behandlingen. Brukeren skal få vite om og godkjenne
-        hvilke opplysninger som behandles, hva formålet med behandlingen er og
-        hvem som behandler opplysningene,
+        til behandlingen. Brukeren skal få vite om og godkjenne hvilke
+        opplysninger som behandles, hva formålet med behandlingen er og hvem som
+        behandler opplysningene,
       </p>
       <p>
         Vi bruker kun informasjonskapsler for å gi deg en bedre brukeropplevelse
@@ -377,7 +403,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <a id="s16"></a>16. E-post og telefon
+          <span id="s16"></span>16. E-post og telefon
         </strong>
       </h3>
       <p>
