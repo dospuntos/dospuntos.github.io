@@ -1,6 +1,4 @@
-import "purecss/build/forms-min.css";
-
-function Filters(props) {
+export default function Filters(props) {
   return (
     <div className="project-filters">
       <div className="content-wrap">
@@ -27,5 +25,3 @@ function Filters(props) {
     </div>
   );
 }
-
-export default Filters;
