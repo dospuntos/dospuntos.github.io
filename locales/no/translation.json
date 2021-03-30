@@ -33,5 +33,15 @@
   "CONTACT_EMAIL": "info@dospuntos.no",
   "BUTTON_VISIT_WEBSITE": "Besøk hjemmesiden",
   "PRIVACY_LINK": "Personvernerklæring",
-  "FAQ_HEADING": "Ofte Stilte Spørsmål"
+  "FAQ_HEADING": "Ofte Stilte Spørsmål",
+  "Q1": "Hvor mye koster en hjemmeside?",
+  "A1": "Prisen på en hjemmeside avhenger mye av mange faktorer, som f.eks. hvilke funksjoner som ønskes. En profesjonell hjemmeside hos oss koster vanligvis mellom 7000,- og 20 000,- (eks. mva).",
+  "Q2": "Koster hjemmesiden noe etter levering?",
+  "A2": "Våre priser inkluderer alt (hosting, domene, sikkerhetskopiering og teknisk support) det første året. Når dette utløper tilbyr vi en lav årlig pris for å videreføre tjenesten. Det er selvfølgelig også mulig å flytte hjemmesiden til en annen server hvis ønskelig.",
+  "Q3": "Kan jeg redigere hjemmesiden selv?",
+  "A3": "Absolutt. Sammen med hjemmesiden leverer vi instruksjoner for å redigere, legge til eller fjerne innhold. Vi kan også hjelpe til hvis du står fast med noe.",
+  "Q4": "Kan dere fornye en eksisterende hjemmeside?",
+  "A4": "Selvfølgelig, vi kan både lage nye hjemmesider og modernisere/redesigne eksisterende nettsteder.",
+  "Q5": "Hvor lang leveringstid har dere?",
+  "A5": "Vi begynner å lage nettsiden med en gang avtalen er signert og nødvendig materiale (tekst, bilder etc.) er mottatt. Utviklingsperioden tar deretter alt fra 2 til 5 uker, før nettsiden er ferdig utviklet og kan publiseres."
 }
