@@ -42,16 +42,12 @@ export default function Portfolio({ lang }) {
   let filteredProjects = projects;
 
   filteredProjects = filteredProjects.filter((eachItem) => {
-    return (
-      //!tagFilter.length || eachItem["tags"].some((r) => tagFilter.includes(r))
-      tagFilter === "" || eachItem["tags"].some((r) => tagFilter === r)
-    );
+    return tagFilter === "" || eachItem["tags"].some((r) => tagFilter === r);
   });
 
   return (
     <div className="portfolio">
       <Filters
-        /* handleFilterChange={handleFilterChange} */
         handleTagFilter={handleTagFilter}
         tags={[...new Set(tags)]}
         tagFilter={tagFilter}
