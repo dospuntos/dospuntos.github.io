@@ -26,24 +26,22 @@ h6,
 
 .pure-button {
   transition: background 0.5s ease-out;
-}
-
-.pure-button.enabled {
-  background: #3b7f7e;
-  color: #fff;
+  &.enabled {
+    background: #3b7f7e;
+    color: #fff;
+  }
 }
 
 /* Add some padding for bottom-aligned buttons */
 .fixed-button-container {
   padding-bottom: 50px;
   position: relative;
-}
-
-.fixed-button {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  .fixed-button {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }
 
 img {
@@ -52,10 +50,9 @@ img {
 
 a {
   color: #19AAB1;
-}
-
-a:visited {
-  color: #0f6266;
+  &:visited {
+    color: #0f6266;
+  }
 }
 
 .text-center {
@@ -86,10 +83,7 @@ a:visited {
 
 .mt-150 {
   margin-top: 150px;
-}
-
-@media screen and (max-width: 598px) {
-  .mt-150 {
+  @media screen and (max-width: 598px) {
     margin-top: 75px;
   }
 }

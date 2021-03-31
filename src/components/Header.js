@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import "./header/menu.css";
+import "./header/menu.scss";
 import LanguageSelector from "./LanguageSelector";
 
 function Header({ lang }) {

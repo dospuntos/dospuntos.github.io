@@ -6,7 +6,7 @@ import MainArea from "./components/MainArea";
 import Footer from "./components/Footer";
 import "purecss/build/pure-min.css";
 import "purecss/build/grids-responsive-min.css";
-import "./App.css";
+import "./App.scss";
 import { useTranslation } from "react-i18next";
 
 function App() {

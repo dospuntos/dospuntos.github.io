@@ -1,5 +1,5 @@
 import Slider from "../slider/Slider";
-import "../slider/slider.css";
+import "../slider/slider.scss";
 
 export default function Slideshow() {
   return (

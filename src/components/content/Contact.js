@@ -1,6 +1,6 @@
 import Form from "./Form";
 import { useTranslation } from "react-i18next";
-import "./contact.css";
+import "./contact.scss";
 
 function Contact() {
   const { t } = useTranslation();

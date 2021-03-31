@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import "react-responsive-modal/styles.css";
 import { Modal } from "react-responsive-modal";
-import "./thumbnail.css";
+import "./thumbnail.scss";
 import "purecss/build/buttons-min.css";
 import { useTranslation } from "react-i18next";
 import { FaTags } from "react-icons/fa";
