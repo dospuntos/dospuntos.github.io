@@ -33,28 +33,33 @@ export default function Services() {
       <div className="services content-wrap">
         <h1>{t("servicesTitle")}</h1>
         <div className="pure-g">
-          <div className="pure-u-1 pure-u-md-1-3 text-center">
+          <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
             <IoIosDesktop size="64" />
             <h3>{t("servicesWebTitle")}</h3>
             <p>{t("servicesWebContent")}</p>
-            <a className="pure-button" href="/contact">
+            <a className="pure-button fixed-button" href="/contact">
               Mer informasjon...
             </a>
           </div>
-          <div className="pure-u-1 pure-u-md-1-3 text-center">
+          <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
             <GiPencilBrush size="64" />
             <h3>{t("servicesGraphicTitle")}</h3>
             <p>{t("servicesGraphicContent")}</p>
+            <a className="pure-button fixed-button" href="/contact">
+              Detaljer...
+            </a>
           </div>
-          <div className="pure-u-1 pure-u-md-1-3 text-center">
+          <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
             <DiCodeBadge size="64" />
             <h3>{t("servicesCustomTitle")}</h3>
             <p>{t("servicesCustomContent")}</p>
+            <a className="pure-button fixed-button" href="/contact">
+              Kontakt oss
+            </a>
           </div>
         </div>
       </div>
       <div className="faq content-wrap">
-        {/* <Accordion questionsAnswers={questionsAnswers} /> */}
         <Faq data={data} />
       </div>
       <ClickToAction />

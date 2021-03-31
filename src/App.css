@@ -33,6 +33,19 @@ h6,
   color: #fff;
 }
 
+/* Add some padding for bottom-aligned buttons */
+.fixed-button-container {
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.fixed-button {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 img {
   max-width: 100%;
 }
