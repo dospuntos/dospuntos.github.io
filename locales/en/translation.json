@@ -33,5 +33,15 @@
   "CONTACT_EMAIL": "info@dospuntos.no",
   "BUTTON_VISIT_WEBSITE": "Visit Website",
   "PRIVACY_LINK": "Privacy Statement",
-  "FAQ_HEADING": "Frequently Asked Questions"
+  "FAQ_HEADING": "Frequently Asked Questions",
+  "Q1": "How much does a website cost?",
+  "A1": "The final price of a website depends on many factors, such as the desired functions and the amount of content. A professional website with us usually costs between $US 800,- and $US 3 000,- (excl. VAT).",
+  "Q2": "Are there any additional costs after delivery?",
+  "A2": "Our website prices include everything (hosting, domain, backup and technical support) for one year. After a year we offer a low annual price to continue the service. Of course, it is also possible to move the website to another server if desired.",
+  "Q3": "Can I edit the website myself?",
+  "A3": "Absolutely. When we deliver your website, we provide simple instructions for editing, adding or removing content without the need to write code. We can also help if you are stuck with something.",
+  "Q4": "Can you renew an existing website?",
+  "A4": "Of course, we can both create new websites and modernize / redesign existing websites.",
+  "Q5": "What is your delivery time?",
+  "A5": "We begin designing the website as soon as the agreement is signed and the necessary assets (text, photos, etc.) is received. The development time is anywhere from 2 to 5 weeks, before the website is fully developed and can be published."
 }
