@@ -190,9 +190,15 @@
   line-height: .5;
   text-shadow: 2px 2px 4px black;
   color: #fff;
-}
-
-.slider-content h3 {
-  color: #0c7384;
-  font-size: 200%;
+  @media screen and (max-width: 580px) {
+    font-size: 100%;
+    left: 60px;
+  }
+  h3 {
+    color: #0c7384;
+    font-size: 200%;
+    @media screen and (max-width: 580px) {
+      font-size: 120%;
+    }
+  }
 }

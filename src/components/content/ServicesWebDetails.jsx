@@ -1,6 +1,7 @@
 import "./servicesWebDetails.scss";
 
 export default function ServicesWebDetails() {
+  window.scrollTo(0, 0);
   return (
     <div className="plans">
       <div className="plan-box">
@@ -55,10 +56,6 @@ export default function ServicesWebDetails() {
               <strong>24/7</strong> Customer Support
             </li>
           </ul> */}
-
-          <a className="button" href="#/">
-            Choose
-          </a>
         </div>
       </div>
 
@@ -94,10 +91,6 @@ export default function ServicesWebDetails() {
               <strong>24/7</strong> Customer Support
             </li>
           </ul> */}
-
-          <a className="button" href="#/">
-            Choose
-          </a>
         </div>
       </div>
     </div>

@@ -55,6 +55,10 @@ export default function Services() {
               </p>
               <p>{t("WEB_SERVICES_DETAILS_2")}</p>
               <ServicesWebDetails />
+              <p>
+                <em>{t("WEB_SERVICES_DETAILS_3")}</em>
+              </p>
+              <p>{t("WEB_SERVICES_DETAILS_4")}</p>
               <a className="pure-button" href="/contact">
                 {t("ctaBtn")}
               </a>

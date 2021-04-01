@@ -17,10 +17,10 @@ export default function Footer() {
   return (
     <div className="footer pure-g">
       <div className="pure-u-1 pure-u-md-2-3">
-        Copyright &copy; {year} Dos Puntos Design. <em>NO 998 051 002 MVA</em>
+        <Link to="/privacy">{t("PRIVACY_LINK")}</Link>
         <br />
-        <Link to="/privacy">{t("PRIVACY_LINK")}</Link> - {t("copyright")}{" "}
-        <small>v. {packageJson.version}</small>
+        Copyright &copy; {year} Dos Puntos Design. <em>NO 998 051 002 MVA</em>
+        <br />- {t("copyright")} <small>v. {packageJson.version}</small>
       </div>
       <div className="pure-u-1 pure-u-md-1-3 text-right">
         <ul className="social-links ">

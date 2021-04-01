@@ -9,7 +9,7 @@ $base-font: Oxygen, Arial, Helvetica, sans-serif;
 $heading-font: Oswald, Arial, Helvetica, sans-serif;
 
 * {
-    transition: all 1s;
+    transition: all .5s;
 }
 
 ul, li {
@@ -37,7 +37,7 @@ ul, li {
     width: 33.3333%;
     background: $warm-white;
     margin: 10px 0;
-    min-height: 650px;
+    min-height: 100px;
     .best-choice {
       background: $light-blue;
       text-transform: uppercase;
