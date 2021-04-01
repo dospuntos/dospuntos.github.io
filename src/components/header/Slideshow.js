@@ -14,10 +14,6 @@ export default function Slideshow() {
         </div>
         <div>
           <img src="/img/slide_2.jpg" alt="" />
-          <div className="slider-content">
-            <h3>Logo og grafisk design</h3>
-            <p>Profesjonelle og personlige logoer.</p>
-          </div>
         </div>
       </Slider>
     </div>

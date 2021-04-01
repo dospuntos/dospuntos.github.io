@@ -16,12 +16,13 @@ function MainArea() {
       </Switch>
       <div className="content wrapper">
         <Switch>
-          <Route exact path="/" component={Home} />
+          {/* <Route exact path="/" component={Home} /> */}
+          <Route path="/portfolio" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/services" component={Services} />
           <Route path="/contact" component={Contact} />
           <Route path="/privacy" component={Privacy} />
-          <Route component={Services} />
+          <Route component={Home} />
         </Switch>
       </div>
     </>
