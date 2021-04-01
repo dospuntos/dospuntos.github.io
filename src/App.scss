@@ -202,6 +202,7 @@ ul.social-links {
     padding-left: 10px;
     &.active {
       filter: grayscale(100%);
+      display: none;
     }
     &:hover {
       cursor: pointer;
