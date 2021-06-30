@@ -24,7 +24,10 @@ export default function Thumbnail(props) {
           <li className="tags">
             <ul>
               <li style={{ verticalAlign: "middle" }}>
-                <FaTags /> <Link to="#/">{props.tags.join(", ")}</Link>
+                <FaTags />{" "}
+                {props.tags.map((tag) => (
+                  <span>{tag}</span>
+                ))}
               </li>
             </ul>
           </li>
