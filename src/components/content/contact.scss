@@ -1,3 +1,32 @@
+.contact-intro {
+  background: #3b7f7e;
+  margin: -40px -40px 120px;
+  padding: 40px 80px 0;
+  position: relative;
+  h3 {
+    text-align: center;
+    color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  &:after {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -50%;
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: solid 60px #3b7f7e;
+    border-left: solid 540px transparent;
+    border-right: solid 540px transparent;
+    @media screen and (max-width: 1080px) {
+      border-left: solid 50vw transparent;
+      border-right: solid 50vw transparent;
+    }
+  }
+}
+
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
   color: #aca49c;
