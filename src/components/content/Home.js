@@ -8,6 +8,7 @@ export default function Home({ lang }) {
   return (
     <div className="home">
       <div className="highlight-section">
+        <h1>{t("HOME_HEADING")}</h1>
         <p>{t("INTRO_PRIMARY")}</p>
         <p>{t("INTRO_SECONDARY")}</p>
         <Link to="/contact" className="pure-button">

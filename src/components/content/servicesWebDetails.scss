@@ -1,18 +1,19 @@
-$beige: #F7EDB7;
-$dark-grey: #272F30;
-$orange: #E0401C;
-$red: #9E2B20;
-$warm-white: #FFFCEF;
-$light-blue: #D5FFFC;
+$beige: #f7edb7;
+$dark-grey: #272f30;
+$orange: #e0401c;
+$red: #9e2b20;
+$warm-white: #fffcef;
+$light-blue: #d5fffc;
 $dull-blue: #437299;
 $base-font: Oxygen, Arial, Helvetica, sans-serif;
 $heading-font: Oswald, Arial, Helvetica, sans-serif;
 
-* {
+/* * {
     transition: all .5s;
-}
+} */
 
-ul, li {
+ul,
+li {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -22,9 +23,14 @@ ul, li {
   display: none;
 }
 
-.plan-name, .plan-price, .plan-details, .button, .more-options, .best-choice {
-    padding: 10px;
- }
+.plan-name,
+.plan-price,
+.plan-details,
+.button,
+.more-options,
+.best-choice {
+  padding: 10px;
+}
 
 .plans {
   margin: 0 auto;
@@ -61,7 +67,8 @@ ul, li {
       }
       .plan-price {
         background: saturate($red, 55%);
-        box-shadow: -3px 0 3px rgba(0, 0, 0, 0.15), 3px 0 3px rgba(0, 0, 0, 0.15);
+        box-shadow: -3px 0 3px rgba(0, 0, 0, 0.15),
+          3px 0 3px rgba(0, 0, 0, 0.15);
         text-align: center;
       }
       .more-options {
@@ -145,6 +152,6 @@ ul, li {
       &:hover {
         background: saturate($orange, 10%);
       }
-     }
-   }
+    }
+  }
 }

@@ -6,14 +6,14 @@ export default function Slideshow() {
     <div className="wrapper">
       <Slider>
         <div>
-          <img src="/img/slide_1.jpg" alt="" />
           <div className="slider-content">
-            <h3>Vi designer din hjemmeside</h3>
+            <h2>Vi designer din hjemmeside</h2>
             <p>Komplett hjemmeside til riktig pris.</p>
           </div>
+          <img src="/img/slide_4.jpg" alt="" />
         </div>
         <div>
-          <img src="/img/slide_2.jpg" alt="" />
+          <img src="/img/slide_3.jpg" alt="" />
         </div>
       </Slider>
     </div>
