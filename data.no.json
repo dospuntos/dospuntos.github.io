@@ -6,60 +6,78 @@
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "grafisk design",
-    "tags": ["reklame", "grafisk design"]
+    "tags": [
+      "reklame",
+      "grafisk design"
+    ]
   },
   {
     "title": "Kristensamfunnet",
     "description": "Vi har redesignet hjemmesiden til Kristensamfunnet to ganger, første gang med Joomla, og nylig med WordPress. Prosjektet inkluderer en uavhengig hjemmeside for hver av menighetene der prestene kan publisere program, nyheter og bilder.",
     "link": "https://kristensamfunnet.no/",
-    "thumbnail": "kristensamfunnet.sml.jpg",
+    "thumbnail": "kristensamfunnet.jpg",
     "image": "kristensamfunnet.sml.jpg",
     "category": "hjemmeside",
-    "tags": ["hjemmeside"]
+    "tags": [
+      "hjemmeside"
+    ]
   },
   {
     "title": "HotWok",
     "description": "Hjemmesiden til HotWok i Bergen er enkel og oversiktlig, og presenterer restaurantens meny med bilder og beskrivelse.",
     "link": "https://hotwok.no",
-    "thumbnail": "hotwok.no.sml.jpg",
+    "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "hjemmeside",
-    "tags": ["hjemmeside", "logo"]
+    "tags": [
+      "hjemmeside",
+      "logo"
+    ]
   },
   {
     "title": "Elias mat & sånt",
     "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
     "link": "https://cafeelias.no",
-    "thumbnail": "cafeelias.no.sml.jpg",
+    "thumbnail": "cafeelias.jpg",
     "image": "cafeelias.no.med.jpg",
     "category": "hjemmeside",
-    "tags": ["hjemmeside"]
+    "tags": [
+      "hjemmeside"
+    ]
   },
   {
     "title": "Verksøya 2019",
     "description": "Verksøya 2019 var en sommerfestival i Norge. Vi designet logo, hjemmeside for informasjon og billettbestilling, og et komplett sett med reklamematerial, inkludert plakater, flyers, reklamebannere til sosiale medier og avisreklame.",
     "link": "https://verksoya.no/",
-    "thumbnail": "verksoya.sml.jpg",
+    "thumbnail": "verksoya-mockup-2.jpg",
     "image": "verksoya.jpg",
     "category": "grafisk design",
-    "tags": ["logo", "grafisk design"]
+    "tags": [
+      "logo",
+      "grafisk design",
+      "hjemmeside"
+    ]
   },
   {
     "title": "Askeladden Steinerbarnehage",
     "description": "Steinerbarnehagen på Hurum trengte en hjemmeside for foreldre og besøkende interessert i informasjon. Hjemmesiden har en privat del for foreldre der bilder av barna kan lastes opp uten å bryte regler om personvern.",
     "link": "https://askeladdensteinerbarnehage.no",
-    "thumbnail": "askeladdensteinerbarnehage.no.sml.jpg",
+    "thumbnail": "askeladdensteinerbarnehage.jpg",
     "image": "askeladdensteinerbarnehage.no.png",
     "category": "hjemmeside",
-    "tags": ["hjemmeside"]
+    "tags": [
+      "hjemmeside"
+    ]
   },
   {
     "title": "Askerbøringen",
-    "description": "A newspaper designed for the local elections in Norway and printed in aproximately 60.000 copies.",
+    "description": "The newspaper Askerbøringen was first published in 1980 - with a green undertone and goal of preserving the environment and values in Asker. We designed the edition for Asker Venstre ahead of the municipal election 2019. It was printed in a circulation of approx. 60,000.",
     "link": "",
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "grafisk design",
-    "tags": ["grafisk design"]
+    "tags": [
+      "grafisk design"
+    ]
   }
 ]

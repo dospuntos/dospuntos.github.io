@@ -6,61 +6,80 @@
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "graphic design",
-    "tags": ["graphic design"]
+    "tags": [
+      "graphic design"
+    ]
   },
   {
     "title": "Kristensamfunnet",
     "description": "We have redesigned the website for Kristensamfunnet i Norge (The Christian Community in Norway) twice, using Joomla the first time and WordPress on the new website launched recently. The project includes independent websites for each congregation.",
     "link": "https://kristensamfunnet.no/",
-    "thumbnail": "kristensamfunnet.sml.jpg",
+    "thumbnail": "kristensamfunnet.jpg",
     "image": "kristensamfunnet.sml.jpg",
     "category": "websites",
-    "tags": ["website"]
+    "tags": [
+      "website"
+    ]
   },
   {
     "title": "HotWok",
     "description": "Restaurant in Bergen. The simple website gives the visitor a quick overview of the type of restaurant, and includes a full menu with all available dishes available for eat-in and take-away.",
     "link": "https://hotwok.no",
-    "thumbnail": "hotwok.no.sml.jpg",
+    "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "websites",
-    "tags": ["website", "logo", "graphic design"]
+    "tags": [
+      "website",
+      "logo",
+      "graphic design"
+    ]
   },
   {
     "title": "Elias mat & sånt",
     "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
     "link": "https://cafeelias.no",
-    "thumbnail": "cafeelias.no.med.jpg",
+    "thumbnail": "cafeelias.jpg",
     "image": "cafeelias.no.med.jpg",
     "category": "websites",
-    "tags": ["website"]
+    "tags": [
+      "website"
+    ]
   },
   {
     "title": "Verksøya 2019",
     "description": "Verksøya 2019 was a summer festival in Norway. We designed the logo, a website for ticket sales and a complete set of material for publicity, including flyers, posters, social media banners and newspaper ads.",
     "link": "https://verksoya.no/",
-    "thumbnail": "verksoya.sml.jpg",
+    "thumbnail": "verksoya-mockup-2.jpg",
     "image": "verksoya.jpg",
     "category": "graphic design",
-    "tags": ["logo", "graphic design"]
+    "tags": [
+      "logo",
+      "graphic design"
+    ]
   },
   {
     "title": "Nordic IT Project",
-    "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owners can add short updates.",
+    "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owner can add short updates. The company's main services are also clearly visible on the landing page.",
     "link": "https://nordicitproject.com",
-    "thumbnail": "nordicitproject.com.sml.jpg",
+    "thumbnail": "nordicitproject.jpg",
     "image": "nordicitproject.com.png",
     "category": "websites",
-    "tags": ["logo", "graphic design", "website"]
+    "tags": [
+      "logo",
+      "graphic design",
+      "website"
+    ]
   },
   {
     "title": "Askeladden Steinerbarnehage",
     "description": "The Kindergarten in Hurum wanted a new website for parents and anyone interested in learning more about this unique approach to childcare. The website includes a private section for parents where images can be uploaded with less privacy concerns.",
     "link": "https://askeladdensteinerbarnehage.no",
-    "thumbnail": "askeladdensteinerbarnehage.no.sml.jpg",
+    "thumbnail": "askeladdensteinerbarnehage.jpg",
     "image": "askeladdensteinerbarnehage.no.png",
     "category": "websites",
-    "tags": ["website"]
+    "tags": [
+      "website"
+    ]
   },
   {
     "title": "Askerbøringen",
@@ -69,9 +88,10 @@
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "graphic design",
-    "tags": ["graphic design"]
+    "tags": [
+      "graphic design"
+    ]
   },
-
   {
     "title": "Berg og Blåne Logo",
     "description": "We designed a new logo for Berg og Blåne. They work with Sewing of national costumes (Bunads) from all over Norway. An elegant business card was also created. In addition, we delivered a matching website and a stamp with their business information.",
@@ -79,25 +99,35 @@
     "thumbnail": "bergogblaane.jpg",
     "image": "bergogblaane.jpg",
     "category": "graphic design",
-    "tags": ["logo", "website", "graphic design"]
+    "tags": [
+      "logo",
+      "website",
+      "graphic design"
+    ]
   },
-
   {
     "title": "ModaZ - Zumba Wear",
     "description": "A complete e-commerce solution based on Joomla, and a custom programmed store built from scratch to meet the client's requirements.",
     "link": "https://modaz.net",
-    "thumbnail": "modaz.net.jpg",
+    "thumbnail": "modaz.jpg",
     "image": "modaz.net.jpg",
     "category": "websites",
-    "tags": ["website", "logo", "graphic design"]
+    "tags": [
+      "website",
+      "logo",
+      "graphic design"
+    ]
   },
   {
     "title": "Westand AS",
     "description": "A simple business website created for an accounting firm in Norway. The site includes a list of their services, a contact form and basic information about the company.",
     "link": "https://westand.no",
-    "thumbnail": "westand.sml.jpg",
+    "thumbnail": "westand.no.jpg",
     "image": "westand.sml.jpg",
     "category": "websites",
-    "tags": ["website", "logo"]
+    "tags": [
+      "website",
+      "logo"
+    ]
   }
 ]

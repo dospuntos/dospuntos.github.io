@@ -1,49 +1,59 @@
 [
-
   {
     "title": "HotWok",
-    "description": "restaurante in Bergen with great food at the right price.",
+    "description": "El sitio web de HotWok en Bergen es simple y claro, y presenta el menú del restaurante con fotos y descripción.",
     "link": "https://hotwok.no",
-    "thumbnail": "hotwok.no.sml.jpg",
+    "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "página web",
-    "tags": ["responsive", "restaurante", "negocio"]
+    "tags": [
+      "página web"
+    ]
   },
   {
     "title": "Elias mat & sånt",
     "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
     "link": "https://cafeelias.no",
-    "thumbnail": "cafeelias.no.sml.jpg",
+    "thumbnail": "cafeelias.jpg",
     "image": "cafeelias.no.med.jpg",
     "category": "página web",
-    "tags": ["responsive", "restaurante", "negocio"]
+    "tags": [
+      "página web"
+    ]
   },
   {
     "title": "Nordic IT Project",
     "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owners can add short updates.",
     "link": "https://nordicitproject.com",
-    "thumbnail": "nordicitproject.com.sml.jpg",
+    "thumbnail": "nordicitproject.jpg",
     "image": "nordicitproject.com.png",
     "category": "página web",
-    "tags": ["responsive", "logo", "negocio"]
+    "tags": [
+      "página web",
+      "logo"
+    ]
   },
   {
     "title": "Askeladden Steinerbarnehage",
-    "description": "The Kindergarten in Hurum wanted a new website for parents and anyone interested in learning more about this unique approach to childcare. The website includes a private section for parents where images can be uploaded with less privacy concerns.",
+    "description": "El jardín de infancia en Hurum quería un nuevo sitio web para los padres y cualquier persona interesada en aprender más sobre este enfoque único del cuidado infantil. El sitio web incluye una sección privada para padres donde se pueden cargar imágenes con menos preocupaciones de privacidad.",
     "link": "https://askeladdensteinerbarnehage.no",
-    "thumbnail": "askeladdensteinerbarnehage.no.sml.jpg",
+    "thumbnail": "askeladdensteinerbarnehage.jpg",
     "image": "askeladdensteinerbarnehage.no.png",
     "category": "página web",
-    "tags": ["responsive", "educación"]
+    "tags": [
+      "página web"
+    ]
   },
   {
     "title": "Askerbøringen",
-    "description": "A periódico designed for the local elections in Norway and printed in aproximately 60.000 copies.",
+    "description": "El periódico Askerbøringen se publicó por primera vez en 1980, con un tono verde y el objetivo de preservar el medio ambiente y los valores en Asker. Diseñamos la edición para Asker Venstre antes de las elecciones municipales de 2019. Se imprimió en una tirada de aprox. 60.000.",
     "link": "",
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "diseño gráfico",
-    "tags": ["periódico", "anuncios"]
+    "tags": [
+      "diseño gráfico"
+    ]
   },
   {
     "title": "Asker Venstres kommunevalgprogram",
@@ -52,6 +62,8 @@
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "diseño gráfico",
-    "tags": ["periódico", "anuncios"]
+    "tags": [
+      "diseño gráfico"
+    ]
   }
 ]
