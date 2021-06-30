@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://dospuntos.github.io/static/css/main.73de1ca3.chunk.css",
-    "main.js": "https://dospuntos.github.io/static/js/main.33cc45ea.chunk.js",
-    "main.js.map": "https://dospuntos.github.io/static/js/main.33cc45ea.chunk.js.map",
+    "main.css": "https://dospuntos.github.io/static/css/main.76c81eca.chunk.css",
+    "main.js": "https://dospuntos.github.io/static/js/main.48fc8fac.chunk.js",
+    "main.js.map": "https://dospuntos.github.io/static/js/main.48fc8fac.chunk.js.map",
     "runtime-main.js": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js",
     "runtime-main.js.map": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js.map",
-    "static/css/2.9cb5e1a3.chunk.css": "https://dospuntos.github.io/static/css/2.9cb5e1a3.chunk.css",
-    "static/js/2.c7e30a88.chunk.js": "https://dospuntos.github.io/static/js/2.c7e30a88.chunk.js",
-    "static/js/2.c7e30a88.chunk.js.map": "https://dospuntos.github.io/static/js/2.c7e30a88.chunk.js.map",
+    "static/css/2.7fe1ec5d.chunk.css": "https://dospuntos.github.io/static/css/2.7fe1ec5d.chunk.css",
+    "static/js/2.4d6ccff3.chunk.js": "https://dospuntos.github.io/static/js/2.4d6ccff3.chunk.js",
+    "static/js/2.4d6ccff3.chunk.js.map": "https://dospuntos.github.io/static/js/2.4d6ccff3.chunk.js.map",
     "index.html": "https://dospuntos.github.io/index.html",
-    "static/css/2.9cb5e1a3.chunk.css.map": "https://dospuntos.github.io/static/css/2.9cb5e1a3.chunk.css.map",
-    "static/css/main.73de1ca3.chunk.css.map": "https://dospuntos.github.io/static/css/main.73de1ca3.chunk.css.map",
-    "static/js/2.c7e30a88.chunk.js.LICENSE.txt": "https://dospuntos.github.io/static/js/2.c7e30a88.chunk.js.LICENSE.txt"
+    "static/css/2.7fe1ec5d.chunk.css.map": "https://dospuntos.github.io/static/css/2.7fe1ec5d.chunk.css.map",
+    "static/css/main.76c81eca.chunk.css.map": "https://dospuntos.github.io/static/css/main.76c81eca.chunk.css.map",
+    "static/js/2.4d6ccff3.chunk.js.LICENSE.txt": "https://dospuntos.github.io/static/js/2.4d6ccff3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f646710.js",
-    "static/css/2.9cb5e1a3.chunk.css",
-    "static/js/2.c7e30a88.chunk.js",
-    "static/css/main.73de1ca3.chunk.css",
-    "static/js/main.33cc45ea.chunk.js"
+    "static/css/2.7fe1ec5d.chunk.css",
+    "static/js/2.4d6ccff3.chunk.js",
+    "static/css/main.76c81eca.chunk.css",
+    "static/js/main.48fc8fac.chunk.js"
   ]
 }
