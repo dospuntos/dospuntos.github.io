@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.16",
-  "homepage": ".",
+  "homepage": "https://dospuntos.design",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",

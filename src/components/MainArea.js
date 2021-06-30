@@ -6,6 +6,7 @@ import Services from "./content/Services";
 import Contact from "./content/Contact";
 import About from "./content/About";
 import Privacy from "./content/Privacy";
+import NotFound from "./NotFound";
 
 function MainArea() {
   return (
@@ -22,7 +23,8 @@ function MainArea() {
           <Route path="/services" component={Services} />
           <Route path="/contact" component={Contact} />
           <Route path="/privacy" component={Privacy} />
-          <Route component={Home} />
+          <Route exact path="/" component={Home} />
+          <Route component={NotFound} status={404} />
         </Switch>
       </div>
     </>
