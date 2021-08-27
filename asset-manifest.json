@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://dospuntos.github.io/static/css/main.12a6e5e6.chunk.css",
-    "main.js": "https://dospuntos.github.io/static/js/main.86877249.chunk.js",
-    "main.js.map": "https://dospuntos.github.io/static/js/main.86877249.chunk.js.map",
+    "main.js": "https://dospuntos.github.io/static/js/main.cdb2e675.chunk.js",
+    "main.js.map": "https://dospuntos.github.io/static/js/main.cdb2e675.chunk.js.map",
     "runtime-main.js": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js",
     "runtime-main.js.map": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js.map",
     "static/css/2.7fe1ec5d.chunk.css": "https://dospuntos.github.io/static/css/2.7fe1ec5d.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.7fe1ec5d.chunk.css",
     "static/js/2.d88e7c24.chunk.js",
     "static/css/main.12a6e5e6.chunk.css",
-    "static/js/main.86877249.chunk.js"
+    "static/js/main.cdb2e675.chunk.js"
   ]
 }
