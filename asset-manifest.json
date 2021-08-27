@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://dospuntos.github.io/static/css/main.12a6e5e6.chunk.css",
-    "main.js": "https://dospuntos.github.io/static/js/main.cdb2e675.chunk.js",
-    "main.js.map": "https://dospuntos.github.io/static/js/main.cdb2e675.chunk.js.map",
+    "main.css": "https://dospuntos.github.io/static/css/main.aad51fff.chunk.css",
+    "main.js": "https://dospuntos.github.io/static/js/main.3df99eb4.chunk.js",
+    "main.js.map": "https://dospuntos.github.io/static/js/main.3df99eb4.chunk.js.map",
     "runtime-main.js": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js",
     "runtime-main.js.map": "https://dospuntos.github.io/static/js/runtime-main.6f646710.js.map",
     "static/css/2.7fe1ec5d.chunk.css": "https://dospuntos.github.io/static/css/2.7fe1ec5d.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.d88e7c24.chunk.js.map": "https://dospuntos.github.io/static/js/2.d88e7c24.chunk.js.map",
     "index.html": "https://dospuntos.github.io/index.html",
     "static/css/2.7fe1ec5d.chunk.css.map": "https://dospuntos.github.io/static/css/2.7fe1ec5d.chunk.css.map",
-    "static/css/main.12a6e5e6.chunk.css.map": "https://dospuntos.github.io/static/css/main.12a6e5e6.chunk.css.map",
+    "static/css/main.aad51fff.chunk.css.map": "https://dospuntos.github.io/static/css/main.aad51fff.chunk.css.map",
     "static/js/2.d88e7c24.chunk.js.LICENSE.txt": "https://dospuntos.github.io/static/js/2.d88e7c24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f646710.js",
     "static/css/2.7fe1ec5d.chunk.css",
     "static/js/2.d88e7c24.chunk.js",
-    "static/css/main.12a6e5e6.chunk.css",
-    "static/js/main.cdb2e675.chunk.js"
+    "static/css/main.aad51fff.chunk.css",
+    "static/js/main.3df99eb4.chunk.js"
   ]
 }
