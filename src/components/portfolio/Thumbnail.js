@@ -26,7 +26,7 @@ export default function Thumbnail(props) {
               <li style={{ verticalAlign: "middle" }}>
                 <FaTags />{" "}
                 {props.tags.map((tag) => (
-                  <span>{tag}</span>
+                  <span key={tag}>{tag}</span>
                 ))}
               </li>
             </ul>

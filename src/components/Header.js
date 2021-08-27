@@ -48,7 +48,12 @@ function Header({ lang }) {
       </div>
       <div className="main-logo">
         <Link to="/">
-          <img src="./img/logo.png" alt="Dos Puntos Design" />
+          <img
+            src="./img/logo.png"
+            alt="Dos Puntos Design"
+            width={126}
+            height={138}
+          />
         </Link>
       </div>
       <div className="secondary-logo">

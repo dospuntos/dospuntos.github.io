@@ -46,10 +46,11 @@ h6,
 
 img {
   max-width: 100%;
+  height: auto;
 }
 
 a {
-  color: #19AAB1;
+  color: #19aab1;
   &:visited {
     color: #0f6266;
   }
@@ -70,7 +71,7 @@ a {
 @media screen and (max-width: 767px) {
   .footer {
     margin: 75px auto;
-    text-align: center!important;
+    text-align: center !important;
     font-size: 80%;
   }
 }
@@ -94,7 +95,7 @@ a {
   margin: 0 auto -75px;
   position: relative;
   @media screen and (max-width: 1080px) {
-      margin: 0 auto -5px;
+    margin: 0 auto -5px;
   }
   img {
     width: 100%;
@@ -137,13 +138,13 @@ a {
   font-size: 150%;
   line-height: 1.5;
   @media screen and (max-width: 700px) {
-      padding: 30px 40px;
-      font-size: 125%;
-      text-align: center;
+    padding: 30px 40px;
+    font-size: 125%;
+    text-align: center;
   }
   @media screen and (max-width: 500px) {
-      padding: 25px;
-      font-size: 100%;
+    padding: 25px;
+    font-size: 100%;
   }
 }
 

@@ -10,10 +10,18 @@ export default function Slideshow() {
             <h2>Vi designer din hjemmeside</h2>
             <p>Komplett hjemmeside til riktig pris.</p>
           </div>
-          <img src="/img/slide_4.jpg" alt="" />
+          <picture>
+            <source srcset="/img/slide_4.webp" type="image/webp" />
+            <source srcset="/img/slide_4.jpg" type="image/jpeg" />
+            <img src="/img/slide_4.jpg" alt="" width={1080} height={476} />
+          </picture>
         </div>
         <div>
-          <img src="/img/slide_3.jpg" alt="" />
+          <picture>
+            <source srcset="/img/slide_3.webp" type="image/webp" />
+            <source srcset="/img/slide_3.jpg" type="image/jpeg" />
+            <img src="/img/slide_3.jpg" alt="" width={1080} height={476} />
+          </picture>
         </div>
       </Slider>
     </div>
