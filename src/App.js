@@ -14,7 +14,7 @@ function App() {
 
   /*https://colorlib.com/wp/template/katt/ */
   useEffect(() => {
-    if (
+    /* if (
       i18n.language.toLowerCase().includes("no") ||
       i18n.language.toLowerCase().includes("nb") ||
       i18n.language.toLowerCase().includes("nn")
@@ -24,6 +24,13 @@ function App() {
       i18n.changeLanguage("es");
     } else {
       i18n.changeLanguage("en");
+    } */
+    if (i18n.language.toLowerCase().includes("es")) {
+      i18n.changeLanguage("es");
+    } else if (i18n.language.toLowerCase().includes("en")) {
+      i18n.changeLanguage("en");
+    } else {
+      i18n.changeLanguage("no");
     }
   }, [i18n]);
 
