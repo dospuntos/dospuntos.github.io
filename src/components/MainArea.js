@@ -1,4 +1,4 @@
-import { Switch, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Slideshow from "./header/Slideshow";
 import Home from "./content/Home";
 import Hero from "./header/Hero";
@@ -11,21 +11,20 @@ import NotFound from "./NotFound";
 function MainArea() {
   return (
     <>
-      <Switch>
-        <Route exact path="/" component={Slideshow} />
-        <Route component={Hero} />
-      </Switch>
+      <Routes>
+        <Route exact path="/" element={<Slideshow/>} />
+        <Route element={<Hero/>} />
+      </Routes>
       <div className="content wrapper">
-        <Switch>
-          {/* <Route exact path="/" component={Home} /> */}
-          <Route path="/portfolio" component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/services" component={Services} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/privacy" component={Privacy} />
-          <Route exact path="/" component={Home} />
-          <Route component={NotFound} status={404} />
-        </Switch>
+        <Routes>
+          <Route path="/portfolio" element={<Home/>} />
+          <Route path="/about" element={<About/>} />
+          <Route path="/services" element={<Services/>} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/privacy" element={<Privacy/>} />
+          <Route exact path="/" element={<Home/>} />
+          <Route element={NotFound} status={404} />
+        </Routes>
       </div>
     </>
   );
