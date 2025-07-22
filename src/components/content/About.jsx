@@ -1,4 +1,4 @@
-import ClickToAction from "components/content/ClickToAction";
+import ClickToAction from "./ClickToAction";
 import { useTranslation } from "react-i18next";
 
 export default function About() {

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ClickToAction from "../content/ClickToAction";
+import ClickToAction from "./ClickToAction";
 import { GiPencilBrush } from "react-icons/gi";
 import { IoIosDesktop } from "react-icons/io";
 import { DiCodeBadge } from "react-icons/di";

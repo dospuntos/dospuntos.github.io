@@ -1,10 +1,6 @@
 //import React from "react";
-import {
-  GrFacebookOption,
-  GrTwitter,
-  GrLinkedinOption,
-  GrGithub,
-} from "react-icons/gr";
+import { GrFacebookOption, GrLinkedinOption, GrGithub } from "react-icons/gr";
+import { FaXTwitter as GrX } from "react-icons/fa6";
 import { useTranslation } from "react-i18next";
 import packageJson from "../../package.json";
 import { Link } from "react-router-dom";
@@ -35,11 +31,11 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://twitter.com/dospuntosdesign"
+              href="https://x.com/dospuntosdesign"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <GrTwitter />
+              <GrX />
             </a>
           </li>
           <li>
