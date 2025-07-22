@@ -1,14 +1,14 @@
 import { StrictMode, Suspense } from "react";
-import ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client";
 import App from "./App";
 import LoadingSpinner from "./components/portfolio/LoadingSpinner";
 import "./i18n";
 
-ReactDOM.render(
+const root = createRoot(document.getElementById("root"));
+root.render(
   <StrictMode>
     <Suspense fallback={<LoadingSpinner />}>
       <App />
     </Suspense>
-  </StrictMode>,
-  document.getElementById("root")
+  </StrictMode>
 );

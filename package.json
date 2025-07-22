@@ -1,9 +1,11 @@
 {
+  "type": "module",
   "name": "portfolio",
   "version": "1.5.0",
   "homepage": "https://dospuntos.design",
   "private": false,
   "dependencies": {
+    "@vitejs/plugin-react-swc": "^3.11.0",
     "i18next": "^23.4.3",
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-xhr-backend": "^3.2.2",
@@ -16,16 +18,15 @@
     "react-icons": "^5.5.0",
     "react-responsive-modal": "^6.4.2",
     "react-router-dom": "^6.14.2",
-    "react-scripts": "^5.0.1",
     "react-transition-group": "^4.4.2",
-    "sass": "^1.64.2",
-    "surge": "^0.23.1"
+    "surge": "^0.24.6",
+    "vite-plugin-svgr": "^4.3.0",
+    "vite-tsconfig-paths": "^5.1.4"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "deploy2": "surge build https://dpd-portfolio.surge.sh",
     "predeploy": "concurrently \"npm version patch\" \"npm run build\"",
     "deploy": "gh-pages -d build"
@@ -47,7 +48,10 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7",
+    "@vitejs/plugin-react": "^4.3.0",
     "concurrently": "^9.2.0",
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "sass": "^1.89.2",
+    "vite": "^5.4.0"
   }
 }
