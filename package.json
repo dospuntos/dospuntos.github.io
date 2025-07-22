@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "portfolio",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "homepage": "https://dospuntos.design",
   "private": false,
   "dependencies": {
