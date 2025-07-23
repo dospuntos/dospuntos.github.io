@@ -38,7 +38,7 @@
     "description": "Vi har redesignet hjemmesiden til Kristensamfunnet to ganger, første gang med Joomla, og nylig med WordPress. Prosjektet inkluderer en uavhengig hjemmeside for hver av menighetene der prestene kan publisere program, nyheter og bilder.",
     "link": "https://kristensamfunnet.no/",
     "thumbnail": "kristensamfunnet.jpg",
-    "image": "kristensamfunnet.sml.jpg",
+    "image": "kristensamfunnet-full.jpg",
     "category": "hjemmeside",
     "tags": [
       "hjemmeside"
@@ -47,7 +47,7 @@
   {
     "title": "HotWok",
     "description": "Hjemmesiden til HotWok i Bergen er enkel og oversiktlig, og presenterer restaurantens meny med bilder og beskrivelse.",
-    "link": "https://hotwok.no",
+    "link": "#",
     "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "hjemmeside",
@@ -72,7 +72,7 @@
     "description": "Elias mat & sånt serverer god lunsj, smakfulle middager og deilige desserter til riktig pris. Deres meny er inspirert av norsk natur, og det temaet gjenspeiles også i sidens layout.",
     "link": "https://cafeelias.no",
     "thumbnail": "cafeelias.jpg",
-    "image": "cafeelias.no.med.jpg",
+    "image": "cafeelias-full.jpg",
     "category": "hjemmeside",
     "tags": [
       "hjemmeside"
@@ -81,7 +81,7 @@
   {
     "title": "Verksøya 2019",
     "description": "Verksøya 2019 var en sommerfestival i Norge. Vi designet logo, hjemmeside for informasjon og billettbestilling, og et komplett sett med reklamematerial, inkludert plakater, flyers, reklamebannere til sosiale medier og avisreklame.",
-    "link": "https://verksoya.no/",
+    "link": "#",
     "thumbnail": "verksoya-mockup-2.jpg",
     "image": "verksoya.jpg",
     "category": "grafisk design",
@@ -104,8 +104,8 @@
   },
   {
     "title": "Askerbøringen",
-    "description": "The newspaper Askerbøringen was first published in 1980 - with a green undertone and goal of preserving the environment and values in Asker. We designed the edition for Asker Venstre ahead of the municipal election 2019. It was printed in a circulation of approx. 60,000.",
-    "link": "",
+    "description": "Avisen Askerbøringen ble første gang utgitt i 1980 - med en grønn undertone og mål om å bevare miljøet og verdiene i Asker. Vi designet utgaven for Asker Venstre i forkant av kommunevalget i 2019. Den ble trykket i et opplag på ca. 60 000.",
+    "link": "#",
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "grafisk design",

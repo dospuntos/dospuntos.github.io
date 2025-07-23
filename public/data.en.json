@@ -25,7 +25,7 @@
   {
     "title": "Asker Venstres kommunevalgprogram",
     "description": "Printed program for Asker Venstre's political campaign during the 2019 local elections.",
-    "link": "",
+    "link": "#",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "graphic design",
@@ -50,7 +50,7 @@
     "description": "We have redesigned the website for Kristensamfunnet i Norge (The Christian Community in Norway) twice, using Joomla the first time and WordPress on the new website launched recently. The project includes independent websites for each congregation.",
     "link": "https://kristensamfunnet.no/",
     "thumbnail": "kristensamfunnet.jpg",
-    "image": "kristensamfunnet.sml.jpg",
+    "image": "kristensamfunnet-full.jpg",
     "category": "websites",
     "tags": [
       "website"
@@ -59,7 +59,7 @@
   {
     "title": "HotWok",
     "description": "Restaurant in Bergen. The simple website gives the visitor a quick overview of the type of restaurant, and includes a full menu with all available dishes available for eat-in and take-away.",
-    "link": "https://hotwok.no",
+    "link": "#",
     "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "websites",
@@ -74,7 +74,7 @@
     "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
     "link": "https://cafeelias.no",
     "thumbnail": "cafeelias.jpg",
-    "image": "cafeelias.no.med.jpg",
+    "image": "cafeelias-full.jpg",
     "category": "websites",
     "tags": [
       "website"
@@ -83,7 +83,7 @@
   {
     "title": "Verksøya 2019",
     "description": "Verksøya 2019 was a summer festival in Norway. We designed the logo, a website for ticket sales and a complete set of material for publicity, including flyers, posters, social media banners and newspaper ads.",
-    "link": "",
+    "link": "#",
     "thumbnail": "verksoya-mockup-2.jpg",
     "image": "verksoya.jpg",
     "category": "graphic design",
@@ -95,7 +95,7 @@
   {
     "title": "Nordic IT Project",
     "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owner can add short updates. The company's main services are also clearly visible on the landing page.",
-    "link": "",
+    "link": "#",
     "thumbnail": "nordicitproject.jpg",
     "image": "nordicitproject.com.png",
     "category": "websites",
@@ -119,7 +119,7 @@
   {
     "title": "Askerbøringen",
     "description": "A newspaper designed for the local elections in Norway and printed in aproximately 60.000 copies.",
-    "link": "",
+    "link": "#",
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "graphic design",
@@ -156,7 +156,7 @@
   {
     "title": "Westand AS",
     "description": "A simple business website created for an accounting firm in Norway. The site includes a list of their services, a contact form and basic information about the company.",
-    "link": "",
+    "link": "#",
     "thumbnail": "westand.no.jpg",
     "image": "westand.sml.jpg",
     "category": "websites",

@@ -20,7 +20,10 @@ function Contact() {
           <ul className="contact-information text-center">
             <li style={{ whiteSpace: "pre" }}>{t("CONTACT_ADDRESS")}</li>
             <li>
-              <a className="pure-button" href="tel:+59165605287">
+              <a
+                className="pure-button"
+                href={`tel:${t("CONTACT_PHONE_HREF")}`}
+              >
                 {t("CONTACT_PHONE")}
               </a>
             </li>

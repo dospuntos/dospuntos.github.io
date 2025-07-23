@@ -29,8 +29,8 @@ export default function Hero() {
     <div className="heroImage wrapper-large">
       <h1>{title}</h1>
       <picture>
-        <source srcset={image + ".webp"} type="image/webp" />
-        <source srcset={image + ".jpg"} type="image/jpeg" />
+        <source srcSet={image + ".webp"} type="image/webp" />
+        <source srcSet={image + ".jpg"} type="image/jpeg" />
         <img src={image + ".jpg"} alt={title} width={1360} height={371} />
       </picture>
     </div>

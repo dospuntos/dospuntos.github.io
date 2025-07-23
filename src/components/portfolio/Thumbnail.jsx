@@ -33,8 +33,8 @@ export default function Thumbnail(props) {
         </ul>
       </div>
       <div className="description">
-        <h1>{props.title}</h1>
-        <h2>{props.category}</h2>
+        <h3>{props.title}</h3>
+        <h4>{props.category}</h4>
         <p>{props.description}</p>
         {props.link && (
           <p className="read-more">
@@ -52,14 +52,16 @@ export default function Thumbnail(props) {
       <Modal open={open} onClose={(e) => setOpen(false)} center>
         <h1 style={{ textAlign: "center" }}>{props.client}</h1>
         <img src={"img/portfolio/" + props.imageFull} alt="" />
-        <a
-          className="pure-button"
-          href={props.link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {t("BUTTON_VISIT_WEBSITE")}
-        </a>
+        {props.link !== "#" && (
+          <a
+            className="pure-button"
+            href={props.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {t("BUTTON_VISIT_WEBSITE")}
+          </a>
+        )}
       </Modal>
     </div>
   );

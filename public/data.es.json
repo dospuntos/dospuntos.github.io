@@ -23,9 +23,20 @@
     ]
   },
   {
+    "title": "Kristensamfunnet",
+    "description": "Rediseñamos la página web de Kristensamfunnet dos veces, la primera con Joomla y recientemente con WordPress. El proyecto incluye páginas independientes para cada congregación donde los sacerdotes pueden publicar programas, noticias e imágenes.",
+    "link": "https://kristensamfunnet.no/",
+    "thumbnail": "kristensamfunnet.jpg",
+    "image": "kristensamfunnet-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web"
+    ]
+  },
+  {
     "title": "HotWok",
     "description": "El sitio web de HotWok en Bergen es simple y claro, y presenta el menú del restaurante con fotos y descripción.",
-    "link": "https://hotwok.no",
+    "link": "#",
     "thumbnail": "hotwok.jpg",
     "image": "hotwok.no.med.jpg",
     "category": "página web",
@@ -50,7 +61,7 @@
     "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
     "link": "https://cafeelias.no",
     "thumbnail": "cafeelias.jpg",
-    "image": "cafeelias.no.med.jpg",
+    "image": "cafeelias-full.jpg",
     "category": "página web",
     "tags": [
       "página web"
@@ -59,7 +70,7 @@
   {
     "title": "Nordic IT Project",
     "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owners can add short updates.",
-    "link": "https://nordicitproject.com",
+    "link": "#",
     "thumbnail": "nordicitproject.jpg",
     "image": "nordicitproject.com.png",
     "category": "página web",
@@ -82,7 +93,7 @@
   {
     "title": "Askerbøringen",
     "description": "El periódico Askerbøringen se publicó por primera vez en 1980, con un tono verde y el objetivo de preservar el medio ambiente y los valores en Asker. Diseñamos la edición para Asker Venstre antes de las elecciones municipales de 2019. Se imprimió en una tirada de aprox. 60.000.",
-    "link": "",
+    "link": "#",
     "thumbnail": "askerboringen.png",
     "image": "askerboringen.png",
     "category": "diseño gráfico",
@@ -93,7 +104,7 @@
   {
     "title": "Asker Venstres kommunevalgprogram",
     "description": "Printed program for Asker Venstre's political campaign during the 2019 local elections.",
-    "link": "",
+    "link": "#",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "diseño gráfico",
