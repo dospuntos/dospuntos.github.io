@@ -1,152 +1,101 @@
 @use "sass:color";
 
-$beige: #f7edb7;
-$dark-grey: #272f30;
-$orange: #e0401c;
-$red: #9e2b20;
+$highlight: #0c7384;
 $warm-white: #fffcef;
-$light-blue: #d5fffc;
-$dull-blue: #437299;
 $base-font: Oxygen, Arial, Helvetica, sans-serif;
 $heading-font: Oswald, Arial, Helvetica, sans-serif;
 
-/* * {
-    transition: all .5s;
-} */
-
-ul,
-li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.element-hidden {
-  display: none;
-}
-
-.plan-name,
-.plan-price,
-.plan-details,
-.button,
-.more-options,
-.best-choice {
-  padding: 10px;
-}
-
 .plans {
-  margin: 0 auto;
-  max-width: 80%;
   display: flex;
-  flex-flow: row wrap;
-  position: relative;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+
   .plan-box {
-    display: flex;
-    width: 33.3333%;
+    position: relative;
     background: $warm-white;
-    margin: 10px 0;
-    min-height: 100px;
-    .best-choice {
-      background: $light-blue;
-      text-transform: uppercase;
-      font-weight: 600;
-      color: $dull-blue;
-      box-shadow: -3px 0 3px rgba(0, 0, 0, 0.15), 3px 0 3px rgba(0, 0, 0, 0.15);
-      margin-top: auto;
-    }
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    flex: 1 1 calc(33.333% - 20px);
+    min-width: 230px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease;
+
     &:hover {
-      margin-top: -15px;
-      background: white;
-      @media all and (max-width: 700px) {
-        margin-top: 10px;
-      }
+      transform: translateY(-6px);
+    }
+
+    .plan-options {
+      padding: 20px;
+
       .plan-name {
-        color: black;
-      }
-      .plan-price {
-        background: color.adjust($red, $saturation: 55%);
-        box-shadow: -3px 0 3px rgba(0, 0, 0, 0.15),
-          3px 0 3px rgba(0, 0, 0, 0.15);
+        font-family: $heading-font;
+        font-size: 26px;
         text-align: center;
+        margin-bottom: 10px;
       }
-      .more-options {
-        display: block;
-        padding: 20px;
-        text-align: right;
-        position: relative;
-        .additional-options {
-          position: relative;
-          text-align: left;
-          width: 100%;
-          margin: 0;
-        }
-        a {
-          color: $red;
-          text-decoration: none;
-        }
+
+      .plan-description {
+        font-size: 16px;
+        color: #444;
+        margin-bottom: 15px;
+        text-align: center;
+        line-height: 1.4;
       }
-    }
-    @media all and (max-width: 700px) {
-      &:first-child {
-        margin-bottom: 20px;
-      }
-    }
-    &:nth-child(2) {
-      margin-top: 0;
-      box-shadow: -3px 0 3px rgba(0, 0, 0, 0.15), 3px 0 3px rgba(0, 0, 0, 0.15);
-      position: relative;
-      &:hover {
-        margin-top: -35px;
-        @media all and (max-width: 700px) {
-          margin-top: 0px;
-          margin-right: -30px;
+
+      .plan-price {
+        background: $highlight;
+        color: white;
+        font-family: $heading-font;
+        font-size: 20px;
+        text-align: center;
+        padding: 12px;
+        border-radius: 6px;
+
+        strong {
+          font-size: 28px;
+          font-weight: 600;
         }
       }
     }
-    @media all and (max-width: 700px) {
+
+    &.best-seller {
+      border: 2px solid $highlight;
+
+      .plan-price {
+        background: color.adjust($highlight, $lightness: -5%);
+      }
+
+      .plan-name {
+        color: $highlight;
+      }
+
+      .best-tag {
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: $highlight;
+        color: white;
+        padding: 4px 12px;
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 20px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+      }
+    }
+  }
+
+  @media (max-width: 800px) {
+    flex-direction: column;
+    align-items: center;
+
+    .plan-box {
       width: 100%;
-    }
-  }
-  .plan-name {
-    font: 300 32px $heading-font;
-    text-align: center;
-    margin: 0;
-    padding: 20px;
-  }
-  .plan-price {
-    background: $red;
-    color: white;
-    display: flex;
-    font: 24px $heading-font;
-    padding: 20px 10px;
-    text-align: center;
-    strong {
-      font-size: 34px;
-      align-self: baseline;
-      line-height: 1;
-      font-weight: 500;
-    }
-  }
-  .plan-options {
-    display: flex;
-    flex-flow: column;
-    width: 100%;
-    li {
-      border-bottom: 1px solid #cdcdcd;
-      padding: 5px 0;
-      margin: 5px 0;
-    }
-    .button {
-      margin-top: auto;
-      display: block;
-      background: $orange;
-      color: white;
-      text-align: center;
-      font: 24px $heading-font;
-      text-decoration: none;
-      &:hover {
-        background: color.scale($orange, $saturation: 45%);
-      }
+      flex: none;
     }
   }
 }

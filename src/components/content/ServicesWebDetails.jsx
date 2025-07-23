@@ -1,96 +1,45 @@
 import "./servicesWebDetails.scss";
+import { t } from "i18next";
 
 export default function ServicesWebDetails() {
   window.scrollTo(0, 0);
   return (
-    <div className="plans">
-      <div className="plan-box">
-        <div className="plan-options">
-          <p className="plan-name">Personlig</p>
-          <div className="plan-price">
-            Fra &nbsp;<strong>6 999</strong>,-
+    <div class="plans">
+      <div class="plan-box">
+        <div class="plan-options">
+          <p class="plan-name">{t("WEB_PACKAGE_STARTER")}</p>
+          <div class="plan-description">
+            {t("WEB_PACKAGE_STARTER_DESCRIPTION")}
           </div>
-          {/* <ul className="plan-details">
-            <li>1 sub-domain</li>
-            <li>
-              <strong>10</strong> email addresses
-            </li>
-            <li>
-              <strong>Unlimited</strong> Bandwidth
-            </li>
-            <li>
-              <strong>20GB</strong> Storage
-            </li>
-            <li>Support Ads</li>
-            <li>Shared Hosting</li>
-            <li>
-              <strong>24/7</strong> Customer Support
-            </li>
-          </ul> */}
+          <div class="plan-price">
+            {t("WEB_PACKAGE_FROM")}{" "}
+            <strong>{t("WEB_PACKAGE_STARTER_PRICE")}</strong>
+          </div>
         </div>
       </div>
 
-      <div className="plan-box">
-        <div className="plan-options">
-          <p className="plan-name">Profesjonell</p>
-          <div className="plan-price">
-            Fra &nbsp;<strong>11 999</strong> ,-
+      <div class="plan-box best-seller">
+        <div class="best-tag">{t("WEB_PACKAGE_TAG_BEST")}</div>
+        <div class="plan-options">
+          <p class="plan-name">{t("WEB_PACKAGE_PRO")}</p>
+          <div class="plan-description">{t("WEB_PACKAGE_PRO_DESCRIPTION")}</div>
+          <div class="plan-price">
+            {t("WEB_PACKAGE_FROM")}{" "}
+            <strong>{t("WEB_PACKAGE_PRO_PRICE")}</strong>
           </div>
-          {/* <ul className="plan-details">
-            <li>
-              <strong>FREE</strong> custom domain
-            </li>
-            <li>
-              <strong>Unlimited</strong> email addresses
-            </li>
-            <li>
-              <strong>Unlimited</strong> Bandwidth
-            </li>
-            <li>
-              <strong>100GB</strong> Storage
-            </li>
-            <li>
-              <strong>No Support Ads</strong>
-            </li>
-            <li>
-              <strong>24/7</strong> Customer Support
-            </li>
-          </ul> */}
         </div>
       </div>
 
-      <div className="plan-box">
-        <div className="plan-options">
-          <p className="plan-name">Nettbutikk</p>
-          <div className="plan-price">
-            Fra &nbsp;<strong>15 999</strong>,-
+      <div class="plan-box">
+        <div class="plan-options">
+          <p class="plan-name">{t("WEB_PACKAGE_PREMIUM")}</p>
+          <div class="plan-description">
+            {t("WEB_PACKAGE_PREMIUM_DESCRIPTION")}
           </div>
-          {/* <ul className="plan-details">
-            <li>
-              <strong>FREE</strong> custom domain
-            </li>
-            <li>
-              <strong>Unlimited</strong> email addresses
-            </li>
-            <li>
-              <strong>Unlimited</strong> Bandwidth
-            </li>
-            <li>
-              <strong>200GB</strong> Storage
-            </li>
-            <li>
-              <strong>No Support Ads</strong>
-            </li>
-            <li>
-              <strong>Quick Install</strong> Apps (WordPress, etc)
-            </li>
-            <li>
-              <strong>VPS Hosting</strong>
-            </li>
-            <li>
-              <strong>24/7</strong> Customer Support
-            </li>
-          </ul> */}
+          <div class="plan-price">
+            {t("WEB_PACKAGE_FROM")}{" "}
+            <strong>{t("WEB_PACKAGE_PREMIUM_PRICE")}</strong>
+          </div>
         </div>
       </div>
     </div>

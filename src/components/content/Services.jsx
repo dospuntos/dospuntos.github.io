@@ -39,7 +39,7 @@ export default function Services() {
         <h1>{t("servicesTitle")}</h1>
         <div className="pure-g">
           <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
-            <IoIosDesktop size="64" />
+            <IoIosDesktop size="64" style={{ color: "#0C7384" }} />
             <h3>{t("servicesWebTitle")}</h3>
             <p>{t("servicesWebContent")}</p>
             <button
@@ -65,7 +65,7 @@ export default function Services() {
             </Modal>
           </div>
           <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
-            <GiPencilBrush size="64" />
+            <GiPencilBrush size="64" style={{ color: "#0C7384" }} />
             <h3>{t("servicesGraphicTitle")}</h3>
             <p>{t("servicesGraphicContent")}</p>
             <button
@@ -78,10 +78,21 @@ export default function Services() {
               <h1 style={{ textAlign: "center" }}>
                 {t("servicesGraphicTitle")}
               </h1>
+              <p>
+                <strong>{t("GRAPHIC_SERVICES_DETAILS_1")}</strong>
+              </p>
+              <p>{t("GRAPHIC_SERVICES_DETAILS_2")}</p>
+              <p>{t("GRAPHIC_SERVICES_DETAILS_3")}</p>
+              <p>
+                <em>{t("GRAPHIC_SERVICES_DETAILS_4")}</em>
+              </p>
+              <a className="pure-button" href="/contact">
+                {t("ctaBtn")}
+              </a>
             </Modal>
           </div>
           <div className="pure-u-1 pure-u-md-1-3 text-center fixed-button-container">
-            <DiCodeBadge size="64" />
+            <DiCodeBadge size="64" style={{ color: "#0C7384" }} />
             <h3>{t("servicesCustomTitle")}</h3>
             <p>{t("servicesCustomContent")}</p>
             <a className="pure-button fixed-button" href="/contact">

@@ -1,5 +1,6 @@
 import Slider from "../slider/Slider";
 import "../slider/slider.scss";
+import { t } from "i18next";
 
 export default function Slideshow() {
   return (
@@ -7,8 +8,8 @@ export default function Slideshow() {
       <Slider>
         <div>
           <div className="slider-content">
-            <h2>Vi designer din hjemmeside</h2>
-            <p>Komplett hjemmeside til riktig pris.</p>
+            <h2>{t("SLIDESHOW_1_HEADING")}</h2>
+            <p>{t("SLIDESHOW_1_SUBHEADING")}</p>
           </div>
           <picture>
             <source srcset="/img/slide_4.webp" type="image/webp" />
