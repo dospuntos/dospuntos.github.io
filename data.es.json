@@ -1,5 +1,28 @@
 [
   {
+    "title": "Fred i Colombia - Colombiaprosjektet",
+    "description": "Página web para Colombiaprosjektet, un proyecto de paz noruego que trabaja por la paz en Colombia. El sitio incluye información sobre el proyecto, actualizaciones de noticias y una página de donaciones.",
+    "link": "https://colombiaprosjektet.no",
+    "thumbnail": "colombiaprosjektet.jpg",
+    "image": "colombiaprosjektet-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web",
+      "logo"
+    ]
+  },
+  {
+    "title": "Brocoli Salt Life",
+    "description": "Página web para una empresa de turismo en el Salar de Uyuni, Bolivia. El sitio incluye información sobre los tours, fotos y un formulario de contacto.",
+    "link": "https://brocolisaltlife.com",
+    "thumbnail": "brocolisaltlife.jpg",
+    "image": "brocolisaltlife-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web"
+    ]
+  },
+  {
     "title": "HotWok",
     "description": "El sitio web de HotWok en Bergen es simple y claro, y presenta el menú del restaurante con fotos y descripción.",
     "link": "https://hotwok.no",
@@ -8,6 +31,18 @@
     "category": "página web",
     "tags": [
       "página web"
+    ]
+  },
+  {
+    "title": "Rødstrupe",
+    "description": "Rødstrupe trabaja por los derechos humanos de los niños en Bolivia. El sitio web contiene información sobre la organización, noticias sobre proyectos e información para apoyarlos. Se creó un nuevo logo para dar una imagen más moderna.",
+    "link": "https://rodstrupe.no",
+    "thumbnail": "rodstrupe.jpg",
+    "image": "rodstrupe-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web",
+      "logo"
     ]
   },
   {
