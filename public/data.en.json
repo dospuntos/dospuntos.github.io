@@ -1,13 +1,48 @@
 [
   {
+    "title": "Fred i Colombia - Colombiaprosjektet",
+    "description": "Website for the Colombian Peace Project, a Norwegian organization working to support peace in Colombia. The site includes information about the project, news updates, and a donation page.",
+    "link": "https://colombiaprosjektet.no",
+    "thumbnail": "colombiaprosjektet.jpg",
+    "image": "colombiaprosjektet-full.jpg",
+    "category": "websites",
+    "tags": [
+      "website",
+      "logo"
+    ]
+  },
+  {
+    "title": "Brocoli Salt Life",
+    "description": "Website for a travel agency in the Uyuni Salt Flats, Bolivia. The site includes information about tours, photos, and a contact form.",
+    "link": "https://brocolisaltlife.com",
+    "thumbnail": "brocolisaltlife.jpg",
+    "image": "brocolisaltlife-full.jpg",
+    "category": "websites",
+    "tags": [
+      "website"
+    ]
+  },
+  {
     "title": "Asker Venstres kommunevalgprogram",
     "description": "Printed program for Asker Venstre's political campaign during the 2019 local elections.",
-    "link": "#",
+    "link": "",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "graphic design",
     "tags": [
       "graphic design"
+    ]
+  },
+  {
+    "title": "Rødstrupe",
+    "description": "Rødstrupe works for children's human rights in Bolivia. The website contains information about the organization, news about projects, and ways to support them. A new logo was created to give a more modern look.",
+    "link": "https://rodstrupe.no",
+    "thumbnail": "rodstrupe.jpg",
+    "image": "rodstrupe-full.jpg",
+    "category": "websites",
+    "tags": [
+      "website",
+      "logo"
     ]
   },
   {
@@ -48,7 +83,7 @@
   {
     "title": "Verksøya 2019",
     "description": "Verksøya 2019 was a summer festival in Norway. We designed the logo, a website for ticket sales and a complete set of material for publicity, including flyers, posters, social media banners and newspaper ads.",
-    "link": "https://verksoya.no/",
+    "link": "",
     "thumbnail": "verksoya-mockup-2.jpg",
     "image": "verksoya.jpg",
     "category": "graphic design",
@@ -60,7 +95,7 @@
   {
     "title": "Nordic IT Project",
     "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owner can add short updates. The company's main services are also clearly visible on the landing page.",
-    "link": "https://nordicitproject.com",
+    "link": "",
     "thumbnail": "nordicitproject.jpg",
     "image": "nordicitproject.com.png",
     "category": "websites",
@@ -121,7 +156,7 @@
   {
     "title": "Westand AS",
     "description": "A simple business website created for an accounting firm in Norway. The site includes a list of their services, a contact form and basic information about the company.",
-    "link": "https://westand.no",
+    "link": "",
     "thumbnail": "westand.no.jpg",
     "image": "westand.sml.jpg",
     "category": "websites",

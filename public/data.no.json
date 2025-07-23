@@ -1,5 +1,28 @@
 [
   {
+    "title": "Fred i Colombia - Colombiaprosjektet",
+    "description": "Hjemmeside for Colombiaprosjektet, et norsk fredsprosjekt som jobber for fred i Colombia. Siden inneholder informasjon om prosjektet, nyheter og en donasjonsside.",
+    "link": "https://colombiaprosjektet.no",
+    "thumbnail": "colombiaprosjektet.jpg",
+    "image": "colombiaprosjektet-full.jpg",
+    "category": "hjemmeside",
+    "tags": [
+      "hjemmeside",
+      "logo"
+    ]
+  },
+  {
+    "title": "Brocoli Salt Life",
+    "description": "Hjemmeside for et reisebyrå i Salar de Uyuni, Bolivia. Siden inneholder informasjon om turene, bilder og et kontaktskjema.",
+    "link": "https://brocolisaltlife.com",
+    "thumbnail": "brocolisaltlife.jpg",
+    "image": "brocolisaltlife-full.jpg",
+    "category": "hjemmeside",
+    "tags": [
+      "hjemmeside"
+    ]
+  },
+  {
     "title": "Asker Venstres kommunevalgprogram",
     "description": "Trykket program for Asker Venstres kampanje i forkant av kommunevalget 2019",
     "link": "#",
@@ -7,7 +30,6 @@
     "image": "program.png",
     "category": "grafisk design",
     "tags": [
-      "reklame",
       "grafisk design"
     ]
   },
@@ -34,8 +56,20 @@
     ]
   },
   {
+    "title": "Rødstrupe",
+    "description": "Rødstrupe jobber for menneskerettigheter for barn i Bolivia. Hjemmesiden inneholder informasjon om organisasjonen, nyheter om prosjekter, og informasjon for å støtte dem. En ny logo ble laget for å gi et mer moderne uttrykk.",
+    "link": "https://rodstrupe.no",
+    "thumbnail": "rodstrupe.jpg",
+    "image": "rodstrupe-full.jpg",
+    "category": "hjemmeside",
+    "tags": [
+      "hjemmeside",
+      "logo"
+    ]
+  },
+  {
     "title": "Elias mat & sånt",
-    "description": "Elias mat & sånt serve good lunch, tasty dinners and delicious desserts at the right price. Their menu is inspired by Norwegian nature, and that theme is conveied through the site layout as well.",
+    "description": "Elias mat & sånt serverer god lunsj, smakfulle middager og deilige desserter til riktig pris. Deres meny er inspirert av norsk natur, og det temaet gjenspeiles også i sidens layout.",
     "link": "https://cafeelias.no",
     "thumbnail": "cafeelias.jpg",
     "image": "cafeelias.no.med.jpg",
