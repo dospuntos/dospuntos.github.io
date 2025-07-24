@@ -24,7 +24,7 @@ function MainArea() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route exact path="/" element={<Home />} />
-          <Route element={NotFound} status={404} />
+          <Route path="*" element={<NotFound />} status={404} />
         </Routes>
       </div>
     </>

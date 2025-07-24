@@ -1,3 +1,27 @@
+/* Quicksand 400 */
+@font-face {
+  font-family: "Quicksand";
+  src: url("/fonts/quicksand/quicksand-regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Quicksand 700 */
+@font-face {
+  font-family: "Quicksand";
+  src: url("/fonts/quicksand/quicksand-bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Oswald Regular */
+@font-face {
+  font-family: "Oswald";
+  src: url("/fonts/oswald/oswald-regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
 }

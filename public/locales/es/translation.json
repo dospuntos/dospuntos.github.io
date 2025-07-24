@@ -71,5 +71,8 @@
   "Q4": "¿Pueden modernisar páginas web existentes?",
   "A4": "Desde luego, creamos páginas web nuevas y modernizamos páginas web existentes.",
   "Q5": "¿En cuánto tiempo entregan el sitio web?",
-  "A5": "Empezamos a trabajar una vez firmado el contrato y el material necesario (texto, imágenes etc.) es recibido. El periodo de desarrollo es aproximadamente 2-5 semanas dependiendo del tamaño del sitio web."
+  "A5": "Empezamos a trabajar una vez firmado el contrato y el material necesario (texto, imágenes etc.) es recibido. El periodo de desarrollo es aproximadamente 2-5 semanas dependiendo del tamaño del sitio web.",
+  "ERROR_404_HEADING": "Bueno, esto es incómodo. No hay nada aquí.",
+  "ERROR_404_SUBHEADING": "La página que estabas buscando no existe o ha sido movida.",
+  "ERROR_404_LINK": "Volver a la página de inicio"
 }
