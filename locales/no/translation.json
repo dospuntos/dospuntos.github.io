@@ -73,5 +73,8 @@
   "Q4": "Kan dere fornye en eksisterende hjemmeside?",
   "A4": "Selvfølgelig, vi kan både lage nye hjemmesider og modernisere/redesigne eksisterende nettsteder.",
   "Q5": "Hvor lang leveringstid har dere?",
-  "A5": "Vi begynner å lage nettsiden med en gang avtalen er signert og nødvendig materiale (tekst, bilder etc.) er mottatt. Utviklingsperioden tar deretter alt fra 2 til 5 uker, før nettsiden er ferdig utviklet og kan publiseres."
+  "A5": "Vi begynner å lage nettsiden med en gang avtalen er signert og nødvendig materiale (tekst, bilder etc.) er mottatt. Utviklingsperioden tar deretter alt fra 2 til 5 uker, før nettsiden er ferdig utviklet og kan publiseres.",
+  "ERROR_404_HEADING": "Hm, dette er pinlig. Det er ingenting her.",
+  "ERROR_404_SUBHEADING": "Siden du leter etter eksisterer ikke eller har blitt flyttet.",
+  "ERROR_404_LINK": "Gå tilbake til forsiden"
 }
