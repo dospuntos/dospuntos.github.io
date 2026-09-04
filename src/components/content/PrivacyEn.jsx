@@ -9,430 +9,417 @@ const PrivacyEn = () => {
       </p>
       <ol>
         <li>
-          <a href="#s1" alt="Sentrale begreper">
-            Sentrale begreper
+          <a href="#s1" alt="Key terms">
+            Key terms
           </a>
         </li>
         <li>
-          <a href="#s2" alt="Kontaktinfo">
-            Kontaktinfo
+          <a href="#s2" alt="Contact information">
+            Contact information
           </a>
         </li>
         <li>
           <a href="#s3" alt="Behandlingsansvarlig">
-            Dos Puntos Design er behandlingsansvarlig
+            Dos Puntos Design is the data controller
           </a>
         </li>
         <li>
-          <a href="#s4" alt="Hva samles inn?">
-            Hva slags informasjon er det vi samler inn?
+          <a href="#s4" alt="What kind of information do we collect?">
+            What kind of information do we collect?
           </a>
         </li>
         <li>
-          <a href="#s5" alt="Samtykke">
-            Samtykke etter paragraf 6f og mulighet til å trekke samtykke
+          <a href="#s5" alt="Consent">
+            Consent according to section 6f and the possibility of withdrawing
+            consent
           </a>
         </li>
         <li>
-          <a href="#s6" alt="Informasjon fra andre kilder">
-            Informasjon fra andre kilder
+          <a href="#s6" alt="Information from other sources">
+            Information from other sources
           </a>
         </li>
         <li>
-          <a href="#s7" alt="Formål">
-            Formålet med behandlingen av personopplysningene?
+          <a href="#s7" alt="Purpose">
+            Purpose of processing personal data?
           </a>
         </li>
         <li>
-          <a href="#s8" alt="Samtykke til e-postkorrespondanse">
-            Samtykke til e-postkorrespondanse, direkte markedsføring og videre
-            kontakt
+          <a href="#s8" alt="Consent to email correspondence">
+            Consent to email correspondence, direct marketing and further
+            contact
           </a>
         </li>
         <li>
-          <a href="#s9" alt="Lagringstid">
-            Hvor lenge lagres opplysningene?
+          <a href="#s9" alt="Storage time">
+            How long is the information stored?
           </a>
         </li>
         <li>
-          <a href="#s10" alt="Hvem kan informasjonen deles med?">
-            Hvem kan informasjonen deles med?
+          <a href="#s10" alt="Who can the information be shared with?">
+            Who can the information be shared with?
           </a>
         </li>
         <li>
-          <a href="#s11" alt="Tredjepart">
-            Informasjonsdeling med tredjepart
+          <a href="#s11" alt="Third parties">
+            Information sharing with third parties
           </a>
         </li>
         <li>
-          <a href="#s12" alt="Hvor oppbevares opplysningene?">
-            Hvor oppbevares opplysningene?
+          <a href="#s12" alt="Where is the information stored?">
+            Where is the information stored?
           </a>
         </li>
         <li>
-          <a href="#s13" alt="Dine rettigheter">
-            Dine rettigheter i forhold til innsyn , sletting og eventuelt
-            flytting
+          <a href="#s13" alt="Your rights">
+            Your rights in relation to access, deletion and possible transfer
           </a>
         </li>
         <li>
-          <a href="#s14" alt="Andre formål">
-            Andre formål
+          <a href="#s14" alt="Other purposes">
+            Other purposes
           </a>
         </li>
         <li>
-          <a href="#s15" alt="Informasjonskapsler">
-            Informasjonskapsler
+          <a href="#s15" alt="Cookies">
+            Cookies
           </a>
         </li>
         <li>
-          <a href="#s16" alt="Epost og telefon">
-            Epost og telefon
+          <a href="#s16" alt="Email and telephone">
+            Email and telephone
           </a>
         </li>
       </ol>
       <h3>
         <strong>
-          <span id="s1">1. Kontaktinformasjon til Dos Puntos Design</span>
+          <span id="s1">1. Contact information for Dos Puntos Design</span>
         </strong>
       </h3>
       <p>
-        Dos Puntos Design er behandlingsansvarlig for håndtering av dine
-        personopplysninger. Har du spørsmål om behandlingen eller ønsker å komme
-        i kontakt med oss for å utøve dine rettigheter, finner du
-        kontaktinformasjonen vår nedenfor:
+        Dos Puntos Design is the data controller for the processing of your
+        personal data. If you have any questions about the processing or would
+        like to get in touch with us to exercise your rights, you can find our
+        contact information below:
       </p>
       <p>
         Dos Puntos Design
         <br />
         Nedredammen 6A
         <br />
-        3475 Sætre, Norge
+        3475 Sætre, Norway
         <br />
-        Organisasjonsnummer:
+        Organization number:
         <span>998051002MVA</span>
         <br />
-        E-post adresse:
+        Email:
         <a href="mailto:info@dospuntos.no">info@dospuntos.no</a>
         <br />
-        Mobil 45138399
+        Phone: +4745138399
       </p>
       <h3>
         <strong>
-          <span id="s2">2. Sentrale begreper</span>
+          <span id="s2">2. Key terms</span>
         </strong>
       </h3>
       <p>
-        Personopplysninger er informasjon som alene eller sammen med andre
-        opplysninger kan brukes til å identifisere, lokalisere eller kontakte en
-        person. Eksempler på personopplysninger er navn, telefonnummer og
-        IP-adresse.
+        Personal data is information that, alone or together with other
+        information, can be used to identify, locate or contact a person.
+        Examples of personal data are name, telephone number and IP address.
       </p>
       <p>
-        Behandling av personopplysninger innebærer alle former for håndtering av
-        personopplysninger som: innsamling, analyse, registrering og lagring.
+        Processing of personal data involves all forms of handling of personal
+        data such as: collection, analysis, registration and storage.
       </p>
       <p>
-        Behandlingsansvarlig er den som bestemmer formålet med behandlingen av
-        personopplysninger og hvilke opplysninger som anmodes. Det er
-        behandlingsansvarlig som er ansvarlig for at håndteringen av dine
-        personopplysninger skjer ut i fra den gjeldende personopplysningsloven.
+        The controller is the person who determines the purpose of the
+        processing of personal data and what information is requested. It is the
+        controller who is responsible for ensuring that your personal data is
+        handled in accordance with the applicable Personal Data Act.
       </p>
       <h3>
         <strong>
-          <span id="s3">3. Dos Puntos Design er behandlingsansvarlig</span>
+          <span id="s3">3. Dos Puntos Design is the data controller</span>
         </strong>
       </h3>
       <p>
-        Dos Puntos Design er behandlingsansvarlig for håndteringen av dine
-        personopplysninger.
+        Dos Puntos Design is the data controller for the processing of your
+        personal data.
       </p>
       <h3>
         <strong>
-          <span id="s4">4. Hva slags informasjon er det vi samler inn?</span>
+          <span id="s4">4. What kind of information do we collect?</span>
         </strong>
       </h3>
       <p>
-        Når du registrerer deg via et skjema, bestiller en tjeneste eller
-        produkt eller besøker vår hjemmeside, kan du bli bedt om å gi fra deg
-        informasjon. Avhengig av situasjonen kan vi muligens be om følgende
-        personopplysninger:
+        When you register via a form, order a service or product or visit our
+        website, you may be asked to provide information. Depending on the
+        situation, we may request the following personal information:
       </p>
       <ul>
-        <li>Navn</li>
-        <li>E-postadresse</li>
-        <li>Telefonnummer</li>
-        <li>Hvilken virksomhet du jobber for</li>
-        <li>Stilling eller ansvarsområde</li>
-        <li>Hvilken bransje du jobber i</li>
-        <li>Hjemmesideadresse til virksomheten din</li>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Telephone number</li>
+        <li>Which company you work for</li>
+        <li>Position or area of responsibility</li>
+        <li>Which industry you work in</li>
+        <li>Website address of your company</li>
         <li>
-          Opplysninger om hvilke type datahjelp ditt firma ønsker og hvilke
-          produkter og pakker de har
+          Information about the type of computer assistance your company wants
+          and which products and packages they have
         </li>
         <li>
-          Andre opplysninger som utdypende spørsmål eller svar på skjemaer
+          Other information such as detailed questions or answers to forms
         </li>
         <li>
-          Tekniske opplysninger: hvilken nettadresse du benytter for å få
-          tilgang til våre nettsider, din IP-adresse og brukeradferd, type
-          nettleser, språk og informasjon om identifisering og operativsystem.
+          Technical information: which website address you use to access our
+          websites, your IP address and user behavior, type of browser, language
+          and information about identification and operating system.
         </li>
       </ul>
       <h3>
         <strong>
           <span id="s5">
-            5. Paragraf 6 f som alternativ til valgt samtykke via nettisde.
-            Samtykke kan trekkes.
+            5. Consent according to section 6f and the possibility of
+            withdrawing consent
           </span>
         </strong>
       </h3>
       <div>
         <span>
-          Vi tar utgangspunkt i legitimt samtykke utifra Paragraf 6f i
-          personvernloven. Hvis du har inngått et kundeforhold med oss
-          tidligere, eller du er en ny kunde vil dette være en legitim grunn til
-          å sende deg informasjon. Dette sidestilles med et samtykke i henhold
-          til markedsføringsloven slik loven har vært i Norge i mange år.
+          We base our decision on legitimate consent pursuant to Section 6f of
+          the Data Protection Act. If you have entered into a customer
+          relationship with us previously, or you are a new customer, this will
+          be a legitimate reason to send you information. This is equated with
+          consent in accordance with the Marketing Act, as the law has been in
+          Norway for many years.
         </span>
-        Du kan når som helst trekke dette samtykketom at vi skal behandle dine
-        personopplysninger. Trekker du tilbake samtykket, vil vi ta bort de
-        opplysningene vi har om deg. Merk at sletting av informasjonen hos oss
-        kan påvirke leveransen av informasjon innenfor rammen for
-        kunderelasjonen, samt påvirke pågående dialoger
+        You can withdraw this consent at any time for us to process your
+        personal data. If you withdraw your consent, we will remove the
+        information we have about you. Please note that deleting the information
+        from us may affect the delivery of information within the framework of
+        the customer relationship, as well as affect ongoing dialogues
       </div>
       <h3>
         <strong>
-          <span id="s6">6. Informasjon fra andre kilder</span>
+          <span id="s6">6. Information from other sources</span>
         </strong>
         <strong></strong>
       </h3>
       <div>
-        Når du samtykker til at vi behandler dine personopplysninger godkjenner
-        du også at vi kan registrere andre opplysninger om deg som du har gitt
-        oss ved en tidligere anledning. Basert på offentlig tilgjengelig
-        informasjon kan vi også supplere dine registrerte opplysninger med
-        bransje og ytterligere kontaktinformasjon. Hvis du er kunde hos oss kan
-        vi også tilføye ytterligere kontaktinformasjon til dine opplysninger,
-        som du har registrert hos oss via f.eks. telefon til kundeservice.
-        Opplysninger som er nødvendige for de tjenester du skal bruke vil også
-        bli lagret.
+        When you consent to our processing of your personal data, you also agree
+        that we may register other information about you that you have provided
+        to us on a previous occasion. Based on publicly available information,
+        we may also supplement your registered information with industry and
+        additional contact information. If you are a customer of ours, we may
+        also add additional contact information to your information, which you
+        have registered with us via, for example, a telephone call to customer
+        service. Information that is necessary for the services you will use
+        will also be stored.
         <br />
         <br />
       </div>
       <h3>
         <strong>
-          <span id="s7">
-            7. Formålet med behandlingen av personopplysningene?
-          </span>
+          <span id="s7">7. Purpose of processing personal data?</span>
         </strong>
       </h3>
-      <p>Informasjonen som du gir fra deg brukes til følgende formål:</p>
+      <p>The information you provide is used for the following purposes:</p>
       <ul>
         <li>
-          Salg- og markedsføringsaktiviteter i form av direkte e-post eller
-          telefonkontakt
+          Sales and marketing activities in the form of direct email or
+          telephone contact
         </li>
-        <li>Kundebehandling og informasjon om våre produkter</li>
+        <li>Customer service and information about our products</li>
         <li>
-          For å få statistikk og opplysninger om brukeratferd for å forbedre
-          både hjemmesiden og selve brukeropplevelsen
+          To obtain statistics and information about user behavior in order to
+          improve both the website and the user experience itself
         </li>
         <li>
-          Slik at vi kan gi deg en mer personlig opplevelse og levere produkter
-          og annet innhold som interesserer deg
+          So that we can give you a more personalized experience and deliver
+          products and other content that interests you
         </li>
       </ul>
-      <p>Vi ber om dine personopplysninger for å:</p>
+      <p>We ask for your personal information to:</p>
       <ul>
-        <li>Svare på forespørsler</li>
+        <li>Respond to requests</li>
         <li>
-          Sende ønsket materiale, eller på andre måter kunne oppfylle våre
-          forpliktelser mot at du sender inn dine opplysninger
+          Send the requested material, or in other ways fulfill our obligations
+          in return for your submission of your information
         </li>
-        <li>Opprette og opprettholde en salgsdialog</li>
-        <li>Sende informasjon som kan være av interesse for deg</li>
+        <li>Establish and maintain a sales dialogue</li>
+        <li>Send information that may be of interest to you</li>
       </ul>
       <h3>
         <strong>
-          <span id="s8"></span>8. Samtykke til e-postkorrespondanse, direkte
-          markedsføring og videre kontakt
+          <span id="s8"></span>8. Consent to email correspondence, direct
+          marketing and further contact
         </strong>
       </h3>
       <p>
-        Når du samtykker til at vi behandler dine personopplysninger i
-        overensstemmelse med de overnevnte formål, samtykker du til følgende:
+        When you consent to us processing your personal data in accordance with
+        the abovementioned purposes, you consent to the following:
       </p>
       <ul>
         <li>
-          Vi behandler dine personopplysninger i henhold til denne
-          personvernerklæringen
+          We process your personal data in accordance with this Privacy Policy
         </li>
-        <li>
-          Vi kan sende deg direkte markedsføring via e-post om våre produkter
-        </li>
-        <li>Vi kan kontakte deg via e-post eller telefon</li>
+        <li>We may send you direct marketing via email about our products</li>
+        <li>We may contact you via email or telephone</li>
       </ul>
       <h3>
         <strong>
-          <span id="s9"></span>9. Hvor lenge lagres opplysningene?
+          <span id="s9"></span>9. How long is the information stored?
         </strong>
       </h3>
       <p>
-        Vi behandler personopplysningene bare så lenge det tar å oppfylle
-        hensikten med deres innsamling, deretter sletter vi informasjonen.
+        We process personal data only for as long as it takes to fulfill the
+        purpose of their collection, then we delete the information.
       </p>
       <p>
-        Har du en aktiv dialog med oss tar vi vare på opplysningene dine i 2 år
-        fra den siste kontakten; deretter fjerner vi opplysningene vi har om
-        deg. En aktiv dialog defineres som at du har hatt interaksjon med Dos
-        Puntos Design eller representanter for oss de siste 2 årene via telefon,
-        ved å besvare e-post, lastet ned materiale på nettsiden eller registrert
-        deg via et skjema.
+        If you have an active dialogue with us, we will keep your information
+        for 2 years from the last contact; then we will remove the information
+        we have about you. An active dialogue is defined as you having
+        interacted with Dos Puntos Design or our representatives in the last 2
+        years by phone, by responding to emails, downloading material on the
+        website or registering via a form.
       </p>
       <p>
-        Har du samtykket til behandling av dine personopplysninger i forbindelse
-        med at du takket ja til regelmessig e-poster, fortsetter vi å behandle
-        dine personopplysninger til du avslutter ditt abonnement. Deretter
-        lagrer vi dine personopplysninger i 2 år før vi sletter informasjonen.
+        If you have consented to the processing of your personal data in
+        connection with your acceptance of regular emails, we will continue to
+        process your personal data until you terminate your subscription. Then
+        we store your personal data for 2 years before deleting the information.
       </p>
       <p>
-        I det tilfellet du er ansatt i en virksomhet som er kunde hos oss,
-        behandler vi dine opplysninger innenfor rammen for kundebehandling. For
-        aktive kunderelasjoner behandler vi dine opplysninger inntil (1) du
-        avslutter din stilling i virksomheten, eller at (2) virksomheten ikke
-        lenger har en aktiv kunderelasjon med oss. Når en kunderelasjon
-        avsluttes, går vilkårene for lagring og behandling av opplysninger over
-        til de samme vilkårene som er beskrevet i de foregående avsnittene.
-        Avslutter du din ansettelse i virksomheten, er du selv ansvarlig for å
-        gi oss beskjed slik at vi kan slette dine opplysninger.
+        In the event that you are employed by a company that is a customer of
+        ours, we process your information within the framework of customer
+        processing. For active customer relationships, we process your
+        information until (1) you terminate your employment with the business,
+        or (2) the business no longer has an active customer relationship with
+        us. When a customer relationship terminates, the terms for storing and
+        processing information change to the same terms described in the
+        previous sections. If you terminate your employment with the business,
+        you are responsible for notifying us so that we can delete your
+        information.
       </p>
       <h3>
         <strong>
-          <span id="s10"></span>10. Hvem kan informasjonen deles med?
+          <span id="s10"></span>10. Who can the information be shared with?
         </strong>
       </h3>
       <p>
-        Oppgitte opplysninger vil være tilgjengelige for et begrenset antall
-        personer i virksomheten, som enten jobber i markedsavdelingen,
-        kundesupport eller salg.
+        The information provided will be available to a limited number of people
+        in the company, who either work in the marketing department, customer
+        support or sales.
       </p>
       <h3>
         <strong>
-          <span id="s11"></span>11. Informasjonsdeling med tredjepart
+          <span id="s11"></span>11. Information sharing with third parties
         </strong>
       </h3>
       <p>
-        Vi selger ikke dine personopplysninger til tredjepart. Hvis det er en
-        pågående salg- eller kundedialog mellom deg, oss og noen av våre
-        samarbeidspartnere, deler vi informasjon som:
+        We do not sell your personal data to third parties. If there is an
+        ongoing sales or customer dialogue between you, us and any of our
+        partners, we will share information such as:
       </p>
       <ul>
-        <li>Navn</li>
-        <li>E-postadresse</li>
-        <li>Telefonnummer</li>
-        <li>Hvilken virksomhet du jobber for</li>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Phone number</li>
+        <li>Which company you work for</li>
       </ul>
       <p>
-        Hvis vi har registrert dine opplysninger i forbindelse med en begivenhet
-        som utføres sammen med en ekstern part, kan vi overføre samme kategorier
-        av personopplysninger som angitt ovenfor, samt eventuelle svar på
-        ytterligere skjema- eller utdypende spørsmål.
+        If we have registered your data in connection with an event carried out
+        together with an external party, we may transfer the same categories of
+        personal data as specified above, as well as any responses to additional
+        form or follow-up questions.
       </p>
       <h3>
         <strong>
-          <span id="s12"></span>12. Hvor oppbevares opplysningene?
+          <span id="s12"></span>12. Where is the information stored?
         </strong>
       </h3>
       <p>
-        Opplysningene oppbevares av Dos Puntos Design i kundesystemet vårt. Vi
-        har databehandler-avtale med Rochen som så igjen har avtale med sine
-        underleverandører.
+        The information is stored by Dos Puntos Design in our customer system.
+        We have a data processing agreement with Rochen who in turn have an
+        agreement with their subcontractors.
       </p>
       <h3>
         <strong>
-          <span id="s13"></span>13. Dine rettigheter iforhold til innsyn ,
-          sletting og eventuelt flytting
+          <span id="s13"></span>13. Your rights in relation to access, deletion
+          and possible transfer
         </strong>
       </h3>
       <p>
-        Du har rett til å få informasjon om hvilke opplysninger vi har om deg.
-        Du kan også kreve at vi retter opp i feilaktige opplysninger eller
-        sletter informasjonen din.
+        You have the right to be informed about what information we have about
+        you. You can also request that we correct incorrect information or
+        delete your information.
       </p>
       <p>
-        Ønsker du å trekke tilbake ditt samtykke eller kreve å få oversikt over
-        opplysninger, rettelse eller sletting, kontakter du oss på
-        e-postadressen vi har angitt under avsnittet for kontaktinformasjon. For
-        å motta slik info må du sende en elektronisk kopi av forespørselen på et
-        signert dokument. Ønsker du å flytte informasjon kan vi også hjelpe deg
-        med det.
+        If you wish to withdraw your consent or request an overview of
+        information, correction or deletion, please contact us at the email
+        address we have provided under the contact information section. To
+        receive such information, you must send an electronic copy of the
+        request on a signed document. If you wish to move information, we can
+        also help you with that.
       </p>
       <h3>
         <strong>
-          <span id="s14"></span>14. Andre formål
+          <span id="s14"></span>14. Other purposes
         </strong>
       </h3>
       <p>
-        Derson vi skal bruke personopplysningene til et annet formål enn det de
-        ble samlet inn for inntrer informasjonsplikten på nytt og vi må da
-        opplyse hva det nye formålet er og gi deler av informasjonen ovenfor på
-        nytt.
+        If we are going to use the personal data for a purpose other than the
+        one for which it was collected, the information obligation will come
+        into effect again and we must then state what the new purpose is and
+        provide parts of the information above again.
       </p>
       <h3>
         <strong>
-          <span id="s15"></span>15. Informasjonskapsler
+          <span id="s15"></span>15. Cookies
         </strong>
       </h3>
       <p>
-        Informasjonskapsler (cookies) er små tekstfiler som plasseres på din
-        datamaskin når du laster ned en nettside.
+        Cookies are small text files that are placed on your computer when you
+        download a website.
       </p>
       <p>
-        Lagring av opplysninger og behandling av disse opplysningene er ikke
-        tillatt med mindre bruker både har blitt informert om og har gitt sitt
-        <span className="hilite">samtykke</span>
-        til behandlingen. Brukeren skal få vite om og godkjenne hvilke
-        opplysninger som behandles, hva formålet med behandlingen er og hvem som
-        behandler opplysningene,
+        The storage of information and the processing of this information is not
+        permitted unless the user has both been informed and has given his
+        <span className="hilite">consent</span>
+        to the processing. The user must be informed and approve what
+        information is being processed, what the purpose of the processing is
+        and who processes the information,
       </p>
       <p>
-        Vi bruker kun informasjonskapsler for å gi deg en bedre brukeropplevelse
-        på våre sider slik at du slipper å fylle inn felt på nytt hver gang du
-        er på våre sider.
+        We only use cookies to give you a better user experience on our pages so
+        that you do not have to fill in fields again every time you are on our
+        pages.
       </p>
       <h3>
         <strong>
-          <span id="s16"></span>16. E-post og telefon
+          <span id="s16"></span>16. Email and telephone
         </strong>
       </h3>
       <p>
-        Vi benytter e-post og telefon som en del av det daglige arbeidet
-        Relevante opplysninger som fremkommer av telefonsamtaler og
-        e-postutveksling som skjer som en del av kundebehandlingen registreres i
-        kundesystemet.
+        We use email and telephone as part of our daily work Relevant
+        information that arises from telephone conversations and email exchanges
+        that occur as part of customer processing is registered in the customer
+        system.
       </p>
       <p>
-        Våre medarbeidere benytter i tillegg e-post i alminnelig dialog med
-        interne og eksterne kontakter. Den enkelte er ansvarlig for å slette
-        meldinger som ikke lenger er aktuelle, og minst hvert år gjennomgå og
-        slette unødvendig innhold i e-postkassen. Ved fratreden slettes
-        e-postkontoene, men enkelte relevante e-poster vil normalt bli overført
-        til kollegaer.
+        Our employees also use email in general dialogue with internal and
+        external contacts. Each individual is responsible for deleting messages
+        that are no longer relevant, and at least annually reviewing and
+        deleting unnecessary content in the email box. Upon resignation, the
+        email accounts are deleted, but some relevant emails will normally be
+        transferred to colleagues.
       </p>
-      <p>Sensitive personopplysninger skal ikke sendes med e-post.</p>
+      <p>Sensitive personal information should not be sent by email.</p>
       <p>
-        Vi gjør deg oppmerksom på at vanlig e-post er ukryptert. Vi oppfordrer
-        deg derfor ikke til å sende taushetsbelagte, sensitive eller andre
-        fortrolige opplysninger via e-post.
-      </p>
-      <h1>Personvernerklæring - Datatilsynet</h1>
-      <p>
-        Les hva Datatilsynet sier om{" "}
-        <a href="https://www.datatilsynet.no/regelverk-og-skjema/lage-nye-losninger/personvernerklaeringer/">
-          personvernerklæringer
-        </a>
-        .
+        We would like to point out that regular email is unencrypted. We
+        therefore encourage you not to send confidential, sensitive or other
+        confidential information via email.
       </p>
     </>
   );

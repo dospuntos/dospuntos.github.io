@@ -71,7 +71,7 @@ const PrivacyNo = () => {
         </li>
         <li>
           <a href="#s13" alt="Dine rettigheter">
-            Dine rettigheter i forhold til innsyn , sletting og eventuelt
+            Dine rettigheter i forhold til innsyn, sletting og eventuelt
             flytting
           </a>
         </li>
@@ -351,7 +351,7 @@ const PrivacyNo = () => {
       </p>
       <h3>
         <strong>
-          <span id="s13"></span>13. Dine rettigheter iforhold til innsyn ,
+          <span id="s13"></span>13. Dine rettigheter i forhold til innsyn,
           sletting og eventuelt flytting
         </strong>
       </h3>
