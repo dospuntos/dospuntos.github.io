@@ -4,39 +4,41 @@ import { t } from "i18next";
 export default function ServicesWebDetails() {
   window.scrollTo(0, 0);
   return (
-    <div class="plans">
-      <div class="plan-box">
-        <div class="plan-options">
-          <p class="plan-name">{t("WEB_PACKAGE_STARTER")}</p>
-          <div class="plan-description">
+    <div className="plans">
+      <div className="plan-box">
+        <div className="plan-options">
+          <p className="plan-name">{t("WEB_PACKAGE_STARTER")}</p>
+          <div className="plan-description">
             {t("WEB_PACKAGE_STARTER_DESCRIPTION")}
           </div>
-          <div class="plan-price">
+          <div className="plan-price">
             {t("WEB_PACKAGE_FROM")}{" "}
             <strong>{t("WEB_PACKAGE_STARTER_PRICE")}</strong>
           </div>
         </div>
       </div>
 
-      <div class="plan-box best-seller">
-        <div class="best-tag">{t("WEB_PACKAGE_TAG_BEST")}</div>
-        <div class="plan-options">
-          <p class="plan-name">{t("WEB_PACKAGE_PRO")}</p>
-          <div class="plan-description">{t("WEB_PACKAGE_PRO_DESCRIPTION")}</div>
-          <div class="plan-price">
+      <div className="plan-box best-seller">
+        <div className="best-tag">{t("WEB_PACKAGE_TAG_BEST")}</div>
+        <div className="plan-options">
+          <p className="plan-name">{t("WEB_PACKAGE_PRO")}</p>
+          <div className="plan-description">
+            {t("WEB_PACKAGE_PRO_DESCRIPTION")}
+          </div>
+          <div className="plan-price">
             {t("WEB_PACKAGE_FROM")}{" "}
             <strong>{t("WEB_PACKAGE_PRO_PRICE")}</strong>
           </div>
         </div>
       </div>
 
-      <div class="plan-box">
-        <div class="plan-options">
-          <p class="plan-name">{t("WEB_PACKAGE_PREMIUM")}</p>
-          <div class="plan-description">
+      <div className="plan-box">
+        <div className="plan-options">
+          <p className="plan-name">{t("WEB_PACKAGE_PREMIUM")}</p>
+          <div className="plan-description">
             {t("WEB_PACKAGE_PREMIUM_DESCRIPTION")}
           </div>
-          <div class="plan-price">
+          <div className="plan-price">
             {t("WEB_PACKAGE_FROM")}{" "}
             <strong>{t("WEB_PACKAGE_PREMIUM_PRICE")}</strong>
           </div>
