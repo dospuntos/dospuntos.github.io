@@ -188,18 +188,20 @@ const PrivacyNo = () => {
         </strong>
       </h3>
       <div>
-        <span>
+        <p>
           Vi tar utgangspunkt i legitimt samtykke utifra Paragraf 6f i
           personvernloven. Hvis du har inngått et kundeforhold med oss
           tidligere, eller du er en ny kunde vil dette være en legitim grunn til
           å sende deg informasjon. Dette sidestilles med et samtykke i henhold
           til markedsføringsloven slik loven har vært i Norge i mange år.
-        </span>
-        Du kan når som helst trekke dette samtykketom at vi skal behandle dine
-        personopplysninger. Trekker du tilbake samtykket, vil vi ta bort de
-        opplysningene vi har om deg. Merk at sletting av informasjonen hos oss
-        kan påvirke leveransen av informasjon innenfor rammen for
-        kunderelasjonen, samt påvirke pågående dialoger
+        </p>
+        <p>
+          Du kan når som helst trekke dette samtykketom at vi skal behandle dine
+          personopplysninger. Trekker du tilbake samtykket, vil vi ta bort de
+          opplysningene vi har om deg. Merk at sletting av informasjonen hos oss
+          kan påvirke leveransen av informasjon innenfor rammen for
+          kunderelasjonen, samt påvirke pågående dialoger.
+        </p>
       </div>
       <h3>
         <strong>
