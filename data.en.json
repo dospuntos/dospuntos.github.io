@@ -1,5 +1,29 @@
 [
   {
+    "title": "Nordic Seminary",
+    "description": "We designed a new website for Nordic Seminary, where visitors can read about the seminary's educational offerings and find practical information about current and future courses, contact information, etc. The website also has a blog with texts from course participants.",
+    "link": "https://nordic-seminary.org",
+    "thumbnail": "nordic-seminary.jpg",
+    "image": "nordic-seminary-full.jpg",
+    "category": "websites",
+    "tags": [
+      "website"
+    ],
+    "status": "active"
+  },
+  {
+    "title": "Kristensamfundet i Danmark",
+    "description": "The website of the Christian Community in Denmark is designed with the same graphic profile as the Christian Community in Norway, and consists of a main page with general information and downloadable magazines. In addition, each of the congregations has its own independent page for programs, news and other relevant information.",
+    "link": "https://kristensamfundet.dk",
+    "thumbnail": "kristensamfundet.jpg",
+    "image": "kristensamfundet-full.jpg",
+    "category": "websites",
+    "tags": [
+      "website"
+    ],
+    "status": "active"
+  },
+  {
     "title": "Fred i Colombia - Colombiaprosjektet",
     "description": "Website for the Colombian Peace Project, a Norwegian organization working to support peace in Colombia. The site includes information about the project, news updates, and a donation page.",
     "link": "https://colombiaprosjektet.no",
@@ -9,7 +33,8 @@
     "tags": [
       "website",
       "logo"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "Brocoli Salt Life",
@@ -20,18 +45,20 @@
     "category": "websites",
     "tags": [
       "website"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "Asker Venstres kommunevalgprogram",
-    "description": "Printed program for Asker Venstre's political campaign during the 2019 local elections.",
+    "description": "Printed program for Asker Venstre's political campaign during the 2019 and 2023 local elections.",
     "link": "#",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "graphic design",
     "tags": [
       "graphic design"
-    ]
+    ],
+    "status": "archived"
   },
   {
     "title": "Rødstrupe",
@@ -43,7 +70,8 @@
     "tags": [
       "website",
       "logo"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "Kristensamfunnet",
@@ -54,7 +82,8 @@
     "category": "websites",
     "tags": [
       "website"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "HotWok",
@@ -67,7 +96,9 @@
       "website",
       "logo",
       "graphic design"
-    ]
+    ],
+    "status": "redesigned",
+    "statusNote": "The website has since been redesigned by another company"
   },
   {
     "title": "Elias mat & sånt",
@@ -78,7 +109,8 @@
     "category": "websites",
     "tags": [
       "website"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "Verksøya 2019",
@@ -90,7 +122,8 @@
     "tags": [
       "logo",
       "graphic design"
-    ]
+    ],
+    "status": "archived"
   },
   {
     "title": "Nordic IT Project",
@@ -103,7 +136,9 @@
       "logo",
       "graphic design",
       "website"
-    ]
+    ],
+    "status": "redesigned",
+    "statusNote": "The website has since been redesigned."
   },
   {
     "title": "Askeladden Steinerbarnehage",
@@ -114,7 +149,8 @@
     "category": "websites",
     "tags": [
       "website"
-    ]
+    ],
+    "status": "active"
   },
   {
     "title": "Askerbøringen",
@@ -125,12 +161,13 @@
     "category": "graphic design",
     "tags": [
       "graphic design"
-    ]
+    ],
+    "status": "archived"
   },
   {
     "title": "Berg og Blåne Logo",
     "description": "We designed a new logo for Berg og Blåne. They work with Sewing of national costumes (Bunads) from all over Norway. An elegant business card was also created. In addition, we delivered a matching website and a stamp with their business information.",
-    "link": "https://bergogblaane.no/",
+    "link": "#",
     "thumbnail": "bergogblaane.jpg",
     "image": "bergogblaane.jpg",
     "category": "graphic design",
@@ -138,7 +175,9 @@
       "logo",
       "website",
       "graphic design"
-    ]
+    ],
+    "status": "archived",
+    "statusNote": "The website is no longer available as the business has closed."
   },
   {
     "title": "ModaZ - Zumba Wear",
@@ -151,7 +190,9 @@
       "website",
       "logo",
       "graphic design"
-    ]
+    ],
+    "status": "archived",
+    "statusNote": "The website is no longer available."
   },
   {
     "title": "Westand AS",
@@ -163,6 +204,8 @@
     "tags": [
       "website",
       "logo"
-    ]
+    ],
+    "status": "archived",
+    "statusNote": "The website is no longer available as the business has closed."
   }
 ]

@@ -76,5 +76,7 @@
   "A5": "We begin designing the website as soon as the agreement is signed and the necessary assets (text, photos, etc.) is received. The development time is anywhere from 2 to 5 weeks, before the website is fully developed and can be published.",
   "ERROR_404_HEADING": "Well, this is awkward. There's nothing here.",
   "ERROR_404_SUBHEADING": "The page you were looking for doesn't exist or has been moved.",
-  "ERROR_404_LINK": "Go back to the homepage"
+  "ERROR_404_LINK": "Go back to the homepage",
+  "STATUS_ARCHIVED": "Archived",
+  "STATUS_REDESIGNED": "Redesigned"
 }
