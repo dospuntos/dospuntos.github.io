@@ -1,6 +1,12 @@
 import { useState, useRef } from "react";
 
-export default function Slider(props) {
+export default function Slider({
+  loop = true,
+  selected = 0,
+  showArrows = true,
+  showNav = true,
+  ...props
+}) {
   const [dragStart, setDragStart] = useState(0);
   const [dragStartTime, setDragStartTime] = useState(new Date());
   const [index, setIndex] = useState(0);
@@ -64,7 +70,7 @@ export default function Slider(props) {
   }
 
   function goToSlide(index, event) {
-    const { children, loop } = props;
+    const { children } = props;
 
     if (event) {
       event.preventDefault();
@@ -103,7 +109,7 @@ export default function Slider(props) {
   }
 
   function renderArrows() {
-    const { children, loop, showNav } = props;
+    const { children } = props;
     const arrowsClasses = showNav
       ? "Slider-arrows"
       : "Slider-arrows Slider-arrows--noNav";
@@ -127,7 +133,7 @@ export default function Slider(props) {
   }
 
   /* Render function started here */
-  const { children, showArrows, showNav } = props;
+  const { children } = props;
 
   const slidesStyles = {
     width: `${100 * children.length}%`,
@@ -155,10 +161,3 @@ export default function Slider(props) {
     </div>
   );
 }
-
-Slider.defaultProps = {
-  loop: true,
-  selected: 0,
-  showArrows: true,
-  showNav: true,
-};
