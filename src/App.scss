@@ -269,3 +269,21 @@ ul.social-links {
   font-size: 0.9rem;
   font-style: italic;
 }
+
+.faq-list {
+  margin-top: 2rem;
+}
+
+.faq-item {
+  border-bottom: 1px solid #ddd;
+  summary {
+    padding: 1rem 0;
+    cursor: pointer;
+    font-weight: 600;
+  }
+}
+
+.faq-answer {
+  padding: 0 0 1rem;
+  line-height: 1.6;
+}

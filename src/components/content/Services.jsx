@@ -4,7 +4,6 @@ import { GiPencilBrush } from "react-icons/gi";
 import { IoIosDesktop } from "react-icons/io";
 import { DiCodeBadge } from "react-icons/di";
 import { useTranslation } from "react-i18next";
-import Faq from "react-faq-component";
 import { Helmet } from "react-helmet";
 import Modal from "react-responsive-modal";
 import ServicesWebDetails from "./ServicesWebDetails";
@@ -16,18 +15,14 @@ export default function Services() {
   const [webOpen, setWebOpen] = useState(false);
   const [logoOpen, setLogoOpen] = useState(false);
 
-  let questionsAnswers = [];
-  for (let i = 1; i < FAQ_COUNT + 1; i++) {
+  const questionsAnswers = [];
+
+  for (let i = 1; i <= FAQ_COUNT; i++) {
     questionsAnswers.push({
       title: t(`Q${i}`),
       content: t(`A${i}`),
     });
   }
-
-  const data = {
-    title: t("FAQ_HEADING"),
-    rows: questionsAnswers,
-  };
 
   return (
     <>
@@ -102,7 +97,16 @@ export default function Services() {
         </div>
       </div>
       <div className="faq content-wrap">
-        <Faq data={data} />
+        <h2>{t("FAQ_HEADING")}</h2>
+
+        <div className="faq-list">
+          {questionsAnswers.map((item, index) => (
+            <details key={index} className="faq-item">
+              <summary>{item.title}</summary>
+              <div className="faq-answer">{item.content}</div>
+            </details>
+          ))}
+        </div>
       </div>
       <ClickToAction />
     </>
