@@ -1,5 +1,27 @@
 [
   {
+    "title": "Nordic Seminary",
+    "description": "Vi designet en ny hjemmeside til Nordic Seminary, der besøkende kan lese om seminarets utdanningstilbud og finne praktisk informasjon om nåværende og fremtidige kurs, kontaktinformasjon mm. Hjemmesiden har også en blog med tekster fra kursdeltagere.",
+    "link": "https://nordic-seminary.org",
+    "thumbnail": "nordic-seminary.jpg",
+    "image": "nordic-seminary-full.jpg",
+    "category": "hjemmeside",
+    "tags": [
+      "hjemmeside"
+    ]
+  },
+  {
+    "title": "Kristensamfundet i Danmark",
+    "description": "Hjemmesiden til Kristensamfundet i Danmark er designet med samme grafiske profil som Kristensamfunnet i Norge, og består av en hovedside med generell informasjon og nedlastbare tidsskrifter. I tillegg har hver av menighetene sin selvstendige side for program, nyheter og annen relevant informasjon.",
+    "link": "https://kristensamfundet.dk",
+    "thumbnail": "kristensamfundet.jpg",
+    "image": "kristensamfundet-full.jpg",
+    "category": "hjemmeside",
+    "tags": [
+      "hjemmeside"
+    ]
+  },
+  {
     "title": "Fred i Colombia - Colombiaprosjektet",
     "description": "Hjemmeside for Colombiaprosjektet, et norsk fredsprosjekt som jobber for fred i Colombia. Siden inneholder informasjon om prosjektet, nyheter og en donasjonsside.",
     "link": "https://colombiaprosjektet.no",
@@ -24,14 +46,15 @@
   },
   {
     "title": "Asker Venstres kommunevalgprogram",
-    "description": "Trykket program for Asker Venstres kampanje i forkant av kommunevalget 2019",
+    "description": "Trykket program for Asker Venstres kampanje i forkant av kommunevalget 2019 og 2023",
     "link": "#",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "grafisk design",
     "tags": [
       "grafisk design"
-    ]
+    ],
+    "status": "archived"
   },
   {
     "title": "Kristensamfunnet",
@@ -53,7 +76,9 @@
     "category": "hjemmeside",
     "tags": [
       "hjemmeside"
-    ]
+    ],
+    "status": "redesigned",
+    "statusNote": "Nettsiden har siden blitt redesignet av noen andre."
   },
   {
     "title": "Rødstrupe",
@@ -89,7 +114,8 @@
       "logo",
       "grafisk design",
       "hjemmeside"
-    ]
+    ],
+    "status": "archived"
   },
   {
     "title": "Askeladden Steinerbarnehage",
@@ -111,6 +137,7 @@
     "category": "grafisk design",
     "tags": [
       "grafisk design"
-    ]
+    ],
+    "status": "archived"
   }
 ]

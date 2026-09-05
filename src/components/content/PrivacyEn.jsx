@@ -402,7 +402,7 @@ const PrivacyEn = () => {
         </strong>
       </h3>
       <p>
-        We use email and telephone as part of our daily work Relevant
+        We use email and telephone as part of our daily work. Relevant
         information that arises from telephone conversations and email exchanges
         that occur as part of customer processing is registered in the customer
         system.

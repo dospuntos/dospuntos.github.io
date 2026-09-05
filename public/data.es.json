@@ -1,5 +1,27 @@
 [
   {
+    "title": "Nordic Seminary",
+    "description": "Diseñamos un nuevo sitio web para el Seminario Nórdico, donde los visitantes pueden informarse sobre la oferta educativa del seminario y encontrar información práctica sobre los cursos actuales y futuros, información de contacto, etc. El sitio web también cuenta con un blog con textos de los participantes de los cursos.",
+    "link": "https://nordic-seminary.org",
+    "thumbnail": "nordic-seminary.jpg",
+    "image": "nordic-seminary-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web"
+    ]
+  },
+  {
+    "title": "Kristensamfundet i Danmark",
+    "description": "El sitio web de la Comunidad Cristiana en Dinamarca tiene el mismo diseño gráfico que el de la Comunidad Cristiana en Noruega y consta de una página principal con información general y revistas descargables. Además, cada congregación tiene su propia página independiente con programas, noticias y otra información relevante.",
+    "link": "https://kristensamfundet.dk",
+    "thumbnail": "kristensamfundet.jpg",
+    "image": "kristensamfundet-full.jpg",
+    "category": "página web",
+    "tags": [
+      "página web"
+    ]
+  },
+  {
     "title": "Fred i Colombia - Colombiaprosjektet",
     "description": "Página web para Colombiaprosjektet, un proyecto de paz noruego que trabaja por la paz en Colombia. El sitio incluye información sobre el proyecto, actualizaciones de noticias y una página de donaciones.",
     "link": "https://colombiaprosjektet.no",
@@ -34,17 +56,6 @@
     ]
   },
   {
-    "title": "HotWok",
-    "description": "El sitio web de HotWok en Bergen es simple y claro, y presenta el menú del restaurante con fotos y descripción.",
-    "link": "#",
-    "thumbnail": "hotwok.jpg",
-    "image": "hotwok.no.med.jpg",
-    "category": "página web",
-    "tags": [
-      "página web"
-    ]
-  },
-  {
     "title": "Rødstrupe",
     "description": "Rødstrupe trabaja por los derechos humanos de los niños en Bolivia. El sitio web contiene información sobre la organización, noticias sobre proyectos e información para apoyarlos. Se creó un nuevo logo para dar una imagen más moderna.",
     "link": "https://rodstrupe.no",
@@ -68,18 +79,6 @@
     ]
   },
   {
-    "title": "Nordic IT Project",
-    "description": "A simple and elegant single-page website, presenting the company and their services, including a small section where the owners can add short updates.",
-    "link": "#",
-    "thumbnail": "nordicitproject.jpg",
-    "image": "nordicitproject.com.png",
-    "category": "página web",
-    "tags": [
-      "página web",
-      "logo"
-    ]
-  },
-  {
     "title": "Askeladden Steinerbarnehage",
     "description": "El jardín de infancia en Hurum quería un nuevo sitio web para los padres y cualquier persona interesada en aprender más sobre este enfoque único del cuidado infantil. El sitio web incluye una sección privada para padres donde se pueden cargar imágenes con menos preocupaciones de privacidad.",
     "link": "https://askeladdensteinerbarnehage.no",
@@ -99,17 +98,19 @@
     "category": "diseño gráfico",
     "tags": [
       "diseño gráfico"
-    ]
+    ],
+    "status": "archived"
   },
   {
-    "title": "Asker Venstres kommunevalgprogram",
-    "description": "Printed program for Asker Venstre's political campaign during the 2019 local elections.",
+    "title": "Programa electoral municipal del Partido Liberal de Asker",
+    "description": "Programa impreso de la campaña política de Asker Venstre durante las elecciones locales de 2019 y 2023.",
     "link": "#",
     "thumbnail": "program.png",
     "image": "program.png",
     "category": "diseño gráfico",
     "tags": [
       "diseño gráfico"
-    ]
+    ],
+    "status": "archived"
   }
 ]

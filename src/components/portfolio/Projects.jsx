@@ -26,6 +26,8 @@ export default function Projects({ isLoading, projects }) {
             alt={altLayout}
             tags={project.tags}
             category={project.category}
+            status={project.status}
+            statusNote={project.statusNote}
           />
         );
       })}

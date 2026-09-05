@@ -33,7 +33,14 @@ export default function Thumbnail(props) {
         </ul>
       </div>
       <div className="description">
-        <h3>{props.title}</h3>
+        <h3>
+          {props.title}
+          {props.status && props.status !== "active" && (
+            <span className="status">
+              {t("STATUS_" + props.status.toUpperCase())}
+            </span>
+          )}
+        </h3>
         <h4>{props.category}</h4>
         <p>{props.description}</p>
         {props.link && (
@@ -52,6 +59,9 @@ export default function Thumbnail(props) {
       <Modal open={open} onClose={(e) => setOpen(false)} center>
         <h1 style={{ textAlign: "center" }}>{props.client}</h1>
         <img src={"img/portfolio/" + props.imageFull} alt="" />
+        {props.status && props.status !== "active" && props.statusNote && (
+          <p className="status-note">{props.statusNote}</p>
+        )}
         {props.link !== "#" && (
           <a
             className="pure-button"
