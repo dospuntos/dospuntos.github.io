@@ -60,8 +60,24 @@
     gtag('js', new Date());
 
     gtag('config', 'G-24RCM2SK4G');
-  </script>
-  <script type="module" crossorigin src="./assets/index-B8-M4y2g.js"></script>
+  </script>
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "https://analytics.dospuntos.design/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '1']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+
+  <script type="module" crossorigin src="./assets/index-CI63FZPf.js"></script>
   <link rel="stylesheet" crossorigin href="./assets/index-CN8ji-cA.css">
 </head>
 
